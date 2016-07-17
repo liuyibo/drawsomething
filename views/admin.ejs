@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var callback = function (res) {
+                if (res["word_mode"] == 1) {
+                    $("#word_mode_1").attr("checked", "checked");
+                } else {
+                    $("#word_mode_0").attr("checked", "checked");
+                }
+            };
+            $.ajax({url: "/getconfig", success: callback});
+
+            $("input").click(function () {
+                var data = {};
+                if ($("#word_mode_0").attr("checked")) {
+                    data["word_mode"] = 0;
+                } else {
+                    data["word_mode"] = 1;
+                }
+
+                $.ajax({url: "/setconfig", type: 'post', data: data, async: false,
+                    success: function () {
+                        alert("succeeded!");
+                    },
+                    error: function () {
+                        alert("error!");
+                    }
+                })
+            });
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <span>模式：</span>
+        <span style="margin-left: 20px">随机词汇</span>
+        <input id="word_mode_0" name="word_mode" type="radio" value="随机词汇" />
+        <span style="margin-left: 50px">手动词汇</span>
+        <input id="word_mode_1" name="word_mode" type="radio" value="手动词汇" />
+    </div>
+</body>
+</html>

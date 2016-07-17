@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <style>
+        body {
+            background: rgba(0, 0, 255, 0.03);
+        }
+        td {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    </style>
+    <script>
+        $(document).ready(function() {
+            $.get('/getimgdumpsinfo', function(imgs) {
+                var html = '<table>';
+                for (var i = 0; i < imgs.length; i++) {
+                    var img = imgs[i];
+                    var name = img.name;
+                    var nickname = img.nickname;
+                    var date = new Date(img.date).toLocaleString();
+                    var word = img.word;
+                    var hint = img.hint;
+                    var filename = img.filename;
+                    var url = '/imgdump/' + filename;
+                    var line = '<tr><td>' + name + '</td><td>' + nickname + '</td><td>' + date +
+                            '</td><td>' + word + '</td><td>' + hint +
+                            '</td><td><img src="' + url + '" >' + '</img></td></tr>';
+                    html += line;
+                }
+                html += '</table>';
+                $('#table_container').html(html);
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="table_container">
+
+    </div>
+</body>
+</html>

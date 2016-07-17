@@ -1,0 +1,5152 @@
+{
+  "wordlist": [
+    {
+      "word": "abnormal",
+      "hint": "a____m__"
+    },
+    {
+      "word": "abolish",
+      "hint": "a______"
+    },
+    {
+      "word": "abrupt",
+      "hint": "a_____"
+    },
+    {
+      "word": "absurd",
+      "hint": "a_____"
+    },
+    {
+      "word": "abundance",
+      "hint": "a___d____"
+    },
+    {
+      "word": "academy",
+      "hint": "a______"
+    },
+    {
+      "word": "accessory",
+      "hint": "a_______y"
+    },
+    {
+      "word": "accommodate",
+      "hint": "a___m___a__"
+    },
+    {
+      "word": "accord",
+      "hint": "a_____"
+    },
+    {
+      "word": "acknowledge",
+      "hint": "a___o_____e"
+    },
+    {
+      "word": "acquaint",
+      "hint": "a___a___"
+    },
+    {
+      "word": "acquisition",
+      "hint": "a___i____o_"
+    },
+    {
+      "word": "activate",
+      "hint": "a______e"
+    },
+    {
+      "word": "acute",
+      "hint": "a____"
+    },
+    {
+      "word": "adhere",
+      "hint": "a_____"
+    },
+    {
+      "word": "adjacent",
+      "hint": "a______t"
+    },
+    {
+      "word": "adjoin",
+      "hint": "a_____"
+    },
+    {
+      "word": "administer",
+      "hint": "a______t__"
+    },
+    {
+      "word": "adolescent",
+      "hint": "ad________"
+    },
+    {
+      "word": "advent",
+      "hint": "a_____"
+    },
+    {
+      "word": "adverse",
+      "hint": "a______"
+    },
+    {
+      "word": "advertise",
+      "hint": "a__e_____"
+    },
+    {
+      "word": "advocate",
+      "hint": "a______e"
+    },
+    {
+      "word": "aerial",
+      "hint": "a_____"
+    },
+    {
+      "word": "aesthetic",
+      "hint": "a___h____"
+    },
+    {
+      "word": "affiliate",
+      "hint": "a____i___"
+    },
+    {
+      "word": "affirm",
+      "hint": "a_____"
+    },
+    {
+      "word": "afflict",
+      "hint": "a______"
+    },
+    {
+      "word": "agenda",
+      "hint": "a_____"
+    },
+    {
+      "word": "aggravate",
+      "hint": "a_______e"
+    },
+    {
+      "word": "agitation",
+      "hint": "a_______n"
+    },
+    {
+      "word": "agony",
+      "hint": "a____"
+    },
+    {
+      "word": "agreeable",
+      "hint": "ag_______"
+    },
+    {
+      "word": "alert",
+      "hint": "a____"
+    },
+    {
+      "word": "alien",
+      "hint": "a____"
+    },
+    {
+      "word": "allege",
+      "hint": "a_____"
+    },
+    {
+      "word": "alleviate",
+      "hint": "a_______e"
+    },
+    {
+      "word": "alliance",
+      "hint": "a___a___"
+    },
+    {
+      "word": "allocate",
+      "hint": "a_____t_"
+    },
+    {
+      "word": "allowance",
+      "hint": "a____a___"
+    },
+    {
+      "word": "ally",
+      "hint": "____"
+    },
+    {
+      "word": "alongside",
+      "hint": "a__n_____"
+    },
+    {
+      "word": "alternate",
+      "hint": "a___r____"
+    },
+    {
+      "word": "amateur",
+      "hint": "a______"
+    },
+    {
+      "word": "ambassador",
+      "hint": "am________"
+    },
+    {
+      "word": "ambiguous",
+      "hint": "a_____o__"
+    },
+    {
+      "word": "ambitious",
+      "hint": "a_______s"
+    },
+    {
+      "word": "amend",
+      "hint": "a____"
+    },
+    {
+      "word": "amends",
+      "hint": "a_____"
+    },
+    {
+      "word": "ample",
+      "hint": "a____"
+    },
+    {
+      "word": "amplify",
+      "hint": "a______"
+    },
+    {
+      "word": "analogy",
+      "hint": "a______"
+    },
+    {
+      "word": "analytic",
+      "hint": "a__l____"
+    },
+    {
+      "word": "analytical",
+      "hint": "a_______a_"
+    },
+    {
+      "word": "angel",
+      "hint": "a____"
+    },
+    {
+      "word": "anniversary",
+      "hint": "a_n____s___"
+    },
+    {
+      "word": "anonymous",
+      "hint": "a_____o__"
+    },
+    {
+      "word": "Antarctic",
+      "hint": "A_______c"
+    },
+    {
+      "word": "antique",
+      "hint": "a______"
+    },
+    {
+      "word": "appendix",
+      "hint": "a_p_____"
+    },
+    {
+      "word": "applaud",
+      "hint": "a______"
+    },
+    {
+      "word": "appraisal",
+      "hint": "a___a____"
+    },
+    {
+      "word": "appreciable",
+      "hint": "a_______b_e"
+    },
+    {
+      "word": "apprehension",
+      "hint": "a_p________n"
+    },
+    {
+      "word": "apt",
+      "hint": "___"
+    },
+    {
+      "word": "arc",
+      "hint": "___"
+    },
+    {
+      "word": "arch",
+      "hint": "____"
+    },
+    {
+      "word": "architect",
+      "hint": "a___i____"
+    },
+    {
+      "word": "arctic",
+      "hint": "a_____"
+    },
+    {
+      "word": "array",
+      "hint": "a____"
+    },
+    {
+      "word": "articulate",
+      "hint": "a_______t_"
+    },
+    {
+      "word": "ascend",
+      "hint": "a_____"
+    },
+    {
+      "word": "ascertain",
+      "hint": "a______i_"
+    },
+    {
+      "word": "ascribe",
+      "hint": "a______"
+    },
+    {
+      "word": "assault",
+      "hint": "a______"
+    },
+    {
+      "word": "assert",
+      "hint": "a_____"
+    },
+    {
+      "word": "asset",
+      "hint": "a____"
+    },
+    {
+      "word": "assimilate",
+      "hint": "a________e"
+    },
+    {
+      "word": "assumption",
+      "hint": "a_s_______"
+    },
+    {
+      "word": "assurance",
+      "hint": "a___r____"
+    },
+    {
+      "word": "astronomy",
+      "hint": "a_t______"
+    },
+    {
+      "word": "athlete",
+      "hint": "a______"
+    },
+    {
+      "word": "attendance",
+      "hint": "at________"
+    },
+    {
+      "word": "attendant",
+      "hint": "a__e_____"
+    },
+    {
+      "word": "attorney",
+      "hint": "a____n__"
+    },
+    {
+      "word": "augment",
+      "hint": "a______"
+    },
+    {
+      "word": "authentic",
+      "hint": "a_____t__"
+    },
+    {
+      "word": "authoritative",
+      "hint": "a___o_____i__"
+    },
+    {
+      "word": "authorize",
+      "hint": "a____r___"
+    },
+    {
+      "word": "automation",
+      "hint": "a__o______"
+    },
+    {
+      "word": "autonomy",
+      "hint": "a______y"
+    },
+    {
+      "word": "avail",
+      "hint": "a____"
+    },
+    {
+      "word": "avert",
+      "hint": "a____"
+    },
+    {
+      "word": "aviation",
+      "hint": "a____i__"
+    },
+    {
+      "word": "axis",
+      "hint": "____"
+    },
+    {
+      "word": "bachelor",
+      "hint": "b_____o_"
+    },
+    {
+      "word": "badge",
+      "hint": "b____"
+    },
+    {
+      "word": "baffle",
+      "hint": "b_____"
+    },
+    {
+      "word": "bald",
+      "hint": "____"
+    },
+    {
+      "word": "ballet",
+      "hint": "b_____"
+    },
+    {
+      "word": "ban",
+      "hint": "___"
+    },
+    {
+      "word": "bandage",
+      "hint": "b______"
+    },
+    {
+      "word": "bankrupt",
+      "hint": "b______t"
+    },
+    {
+      "word": "barely",
+      "hint": "b_____"
+    },
+    {
+      "word": "barren",
+      "hint": "b_____"
+    },
+    {
+      "word": "basement",
+      "hint": "b_____n_"
+    },
+    {
+      "word": "batch",
+      "hint": "b____"
+    },
+    {
+      "word": "bearing",
+      "hint": "b______"
+    },
+    {
+      "word": "beforehand",
+      "hint": "b__o______"
+    },
+    {
+      "word": "betray",
+      "hint": "b_____"
+    },
+    {
+      "word": "bewilder",
+      "hint": "be______"
+    },
+    {
+      "word": "bias",
+      "hint": "____"
+    },
+    {
+      "word": "bibliography",
+      "hint": "b_b________y"
+    },
+    {
+      "word": "bid",
+      "hint": "___"
+    },
+    {
+      "word": "biography",
+      "hint": "b_____p__"
+    },
+    {
+      "word": "bizarre",
+      "hint": "b______"
+    },
+    {
+      "word": "blaze",
+      "hint": "b____"
+    },
+    {
+      "word": "bleak",
+      "hint": "b____"
+    },
+    {
+      "word": "bless",
+      "hint": "b____"
+    },
+    {
+      "word": "blossom",
+      "hint": "b______"
+    },
+    {
+      "word": "blunder",
+      "hint": "b______"
+    },
+    {
+      "word": "blunt",
+      "hint": "b____"
+    },
+    {
+      "word": "blush",
+      "hint": "b____"
+    },
+    {
+      "word": "bonus",
+      "hint": "b____"
+    },
+    {
+      "word": "boom",
+      "hint": "____"
+    },
+    {
+      "word": "boost",
+      "hint": "b____"
+    },
+    {
+      "word": "boycott",
+      "hint": "b______"
+    },
+    {
+      "word": "brace",
+      "hint": "b____"
+    },
+    {
+      "word": "bracket",
+      "hint": "b______"
+    },
+    {
+      "word": "breakdown",
+      "hint": "b____d___"
+    },
+    {
+      "word": "bribe",
+      "hint": "b____"
+    },
+    {
+      "word": "brisk",
+      "hint": "b____"
+    },
+    {
+      "word": "brittle",
+      "hint": "b______"
+    },
+    {
+      "word": "bronze",
+      "hint": "b_____"
+    },
+    {
+      "word": "brood",
+      "hint": "b____"
+    },
+    {
+      "word": "bruise",
+      "hint": "b_____"
+    },
+    {
+      "word": "brutal",
+      "hint": "b_____"
+    },
+    {
+      "word": "bud",
+      "hint": "___"
+    },
+    {
+      "word": "budget",
+      "hint": "b_____"
+    },
+    {
+      "word": "buffer",
+      "hint": "b_____"
+    },
+    {
+      "word": "bug",
+      "hint": "___"
+    },
+    {
+      "word": "bull",
+      "hint": "____"
+    },
+    {
+      "word": "bulletin",
+      "hint": "b__l____"
+    },
+    {
+      "word": "bump",
+      "hint": "____"
+    },
+    {
+      "word": "bunch",
+      "hint": "b____"
+    },
+    {
+      "word": "bureaucracy",
+      "hint": "bu____c____"
+    },
+    {
+      "word": "burial",
+      "hint": "b_____"
+    },
+    {
+      "word": "buzz",
+      "hint": "____"
+    },
+    {
+      "word": "bypass",
+      "hint": "b_____"
+    },
+    {
+      "word": "cafeteria",
+      "hint": "c_______a"
+    },
+    {
+      "word": "canvas",
+      "hint": "c_____"
+    },
+    {
+      "word": "capsule",
+      "hint": "c______"
+    },
+    {
+      "word": "captive",
+      "hint": "c______"
+    },
+    {
+      "word": "cartoon",
+      "hint": "c______"
+    },
+    {
+      "word": "carve",
+      "hint": "c____"
+    },
+    {
+      "word": "casualty",
+      "hint": "c__u____"
+    },
+    {
+      "word": "category",
+      "hint": "c______y"
+    },
+    {
+      "word": "cater",
+      "hint": "c____"
+    },
+    {
+      "word": "cathedral",
+      "hint": "c__h_____"
+    },
+    {
+      "word": "Catholic",
+      "hint": "Ca______"
+    },
+    {
+      "word": "caution",
+      "hint": "c______"
+    },
+    {
+      "word": "cautious",
+      "hint": "c______s"
+    },
+    {
+      "word": "cavity",
+      "hint": "c_____"
+    },
+    {
+      "word": "cellar",
+      "hint": "c_____"
+    },
+    {
+      "word": "census",
+      "hint": "c_____"
+    },
+    {
+      "word": "ceramic",
+      "hint": "c______"
+    },
+    {
+      "word": "cereal",
+      "hint": "c_____"
+    },
+    {
+      "word": "certainty",
+      "hint": "c______t_"
+    },
+    {
+      "word": "certify",
+      "hint": "c______"
+    },
+    {
+      "word": "chaos",
+      "hint": "c____"
+    },
+    {
+      "word": "characterize",
+      "hint": "ch_________e"
+    },
+    {
+      "word": "charity",
+      "hint": "c______"
+    },
+    {
+      "word": "charm",
+      "hint": "c____"
+    },
+    {
+      "word": "charter",
+      "hint": "c______"
+    },
+    {
+      "word": "chat",
+      "hint": "____"
+    },
+    {
+      "word": "cherish",
+      "hint": "c______"
+    },
+    {
+      "word": "chip",
+      "hint": "____"
+    },
+    {
+      "word": "chord",
+      "hint": "c____"
+    },
+    {
+      "word": "chorus",
+      "hint": "c_____"
+    },
+    {
+      "word": "chronic",
+      "hint": "c______"
+    },
+    {
+      "word": "circulation",
+      "hint": "c____l_t___"
+    },
+    {
+      "word": "circus",
+      "hint": "c_____"
+    },
+    {
+      "word": "cite",
+      "hint": "____"
+    },
+    {
+      "word": "civilian",
+      "hint": "c____i__"
+    },
+    {
+      "word": "clamp",
+      "hint": "c____"
+    },
+    {
+      "word": "clarity",
+      "hint": "c______"
+    },
+    {
+      "word": "clash",
+      "hint": "c____"
+    },
+    {
+      "word": "clasp",
+      "hint": "c____"
+    },
+    {
+      "word": "classic",
+      "hint": "c______"
+    },
+    {
+      "word": "clause",
+      "hint": "c_____"
+    },
+    {
+      "word": "clearance",
+      "hint": "c_____n__"
+    },
+    {
+      "word": "client",
+      "hint": "c_____"
+    },
+    {
+      "word": "climax",
+      "hint": "c_____"
+    },
+    {
+      "word": "cling",
+      "hint": "c____"
+    },
+    {
+      "word": "clinic",
+      "hint": "c_____"
+    },
+    {
+      "word": "clip",
+      "hint": "____"
+    },
+    {
+      "word": "clockwise",
+      "hint": "c__c_____"
+    },
+    {
+      "word": "closet",
+      "hint": "c_____"
+    },
+    {
+      "word": "cluster",
+      "hint": "c______"
+    },
+    {
+      "word": "clutch",
+      "hint": "c_____"
+    },
+    {
+      "word": "coherent",
+      "hint": "co______"
+    },
+    {
+      "word": "coincide",
+      "hint": "co______"
+    },
+    {
+      "word": "coincidence",
+      "hint": "co__c______"
+    },
+    {
+      "word": "collaboration",
+      "hint": "c_ll_________"
+    },
+    {
+      "word": "collide",
+      "hint": "c______"
+    },
+    {
+      "word": "colonial",
+      "hint": "co______"
+    },
+    {
+      "word": "combat",
+      "hint": "c_____"
+    },
+    {
+      "word": "comedy",
+      "hint": "c_____"
+    },
+    {
+      "word": "comet",
+      "hint": "c____"
+    },
+    {
+      "word": "commemorate",
+      "hint": "c__m_____t_"
+    },
+    {
+      "word": "commence",
+      "hint": "c____n__"
+    },
+    {
+      "word": "commend",
+      "hint": "c______"
+    },
+    {
+      "word": "commentary",
+      "hint": "c___e_____"
+    },
+    {
+      "word": "commitment",
+      "hint": "c_m_______"
+    },
+    {
+      "word": "commodity",
+      "hint": "c_m______"
+    },
+    {
+      "word": "commonplace",
+      "hint": "c__mo______"
+    },
+    {
+      "word": "commonwealth",
+      "hint": "c____n_____h"
+    },
+    {
+      "word": "commute",
+      "hint": "c______"
+    },
+    {
+      "word": "compact",
+      "hint": "c______"
+    },
+    {
+      "word": "comparable",
+      "hint": "c___a_____"
+    },
+    {
+      "word": "compartment",
+      "hint": "c__pa______"
+    },
+    {
+      "word": "compatible",
+      "hint": "c_______l_"
+    },
+    {
+      "word": "compensate",
+      "hint": "c______a__"
+    },
+    {
+      "word": "competence",
+      "hint": "co________"
+    },
+    {
+      "word": "competitive",
+      "hint": "c_m_______e"
+    },
+    {
+      "word": "compile",
+      "hint": "c______"
+    },
+    {
+      "word": "complement",
+      "hint": "c________t"
+    },
+    {
+      "word": "complication",
+      "hint": "c____i___i__"
+    },
+    {
+      "word": "compliment",
+      "hint": "c_____m___"
+    },
+    {
+      "word": "comply",
+      "hint": "c_____"
+    },
+    {
+      "word": "composite",
+      "hint": "c_____i__"
+    },
+    {
+      "word": "compulsory",
+      "hint": "c_______r_"
+    },
+    {
+      "word": "concede",
+      "hint": "c______"
+    },
+    {
+      "word": "conceive",
+      "hint": "c__c____"
+    },
+    {
+      "word": "conception",
+      "hint": "c____p____"
+    },
+    {
+      "word": "concession",
+      "hint": "c________n"
+    },
+    {
+      "word": "concise",
+      "hint": "c______"
+    },
+    {
+      "word": "confer",
+      "hint": "c_____"
+    },
+    {
+      "word": "confidential",
+      "hint": "c_____en____"
+    },
+    {
+      "word": "configuration",
+      "hint": "con__________"
+    },
+    {
+      "word": "conform",
+      "hint": "c______"
+    },
+    {
+      "word": "confront",
+      "hint": "c______t"
+    },
+    {
+      "word": "confusion",
+      "hint": "c_______n"
+    },
+    {
+      "word": "conscientious",
+      "hint": "c____i______s"
+    },
+    {
+      "word": "consecutive",
+      "hint": "c____cu____"
+    },
+    {
+      "word": "consensus",
+      "hint": "c_____s__"
+    },
+    {
+      "word": "consequent",
+      "hint": "c___e_____"
+    },
+    {
+      "word": "conserve",
+      "hint": "c___e___"
+    },
+    {
+      "word": "consolidate",
+      "hint": "c_n_______e"
+    },
+    {
+      "word": "conspicuous",
+      "hint": "c_n___c____"
+    },
+    {
+      "word": "constituent",
+      "hint": "co________t"
+    },
+    {
+      "word": "constrain",
+      "hint": "c_n______"
+    },
+    {
+      "word": "consultant",
+      "hint": "co________"
+    },
+    {
+      "word": "consumer",
+      "hint": "co______"
+    },
+    {
+      "word": "contaminate",
+      "hint": "c____mi____"
+    },
+    {
+      "word": "contemplate",
+      "hint": "c___e_p____"
+    },
+    {
+      "word": "contempt",
+      "hint": "co______"
+    },
+    {
+      "word": "contend",
+      "hint": "c______"
+    },
+    {
+      "word": "context",
+      "hint": "c______"
+    },
+    {
+      "word": "continuity",
+      "hint": "c________y"
+    },
+    {
+      "word": "contradict",
+      "hint": "c_n_______"
+    },
+    {
+      "word": "contribution",
+      "hint": "c_n_____t___"
+    },
+    {
+      "word": "contrive",
+      "hint": "c_n_____"
+    },
+    {
+      "word": "controversial",
+      "hint": "c_nt_________"
+    },
+    {
+      "word": "controversy",
+      "hint": "c___ro_____"
+    },
+    {
+      "word": "converge",
+      "hint": "c__v____"
+    },
+    {
+      "word": "convict",
+      "hint": "c______"
+    },
+    {
+      "word": "conviction",
+      "hint": "c____c____"
+    },
+    {
+      "word": "cooperative",
+      "hint": "c____ra____"
+    },
+    {
+      "word": "cordial",
+      "hint": "c______"
+    },
+    {
+      "word": "corporate",
+      "hint": "c_______e"
+    },
+    {
+      "word": "corps",
+      "hint": "c____"
+    },
+    {
+      "word": "correlate",
+      "hint": "c___e____"
+    },
+    {
+      "word": "correspondence",
+      "hint": "c____s___d___e"
+    },
+    {
+      "word": "correspondent",
+      "hint": "c_____p_n____"
+    },
+    {
+      "word": "corrode",
+      "hint": "c______"
+    },
+    {
+      "word": "corrupt",
+      "hint": "c______"
+    },
+    {
+      "word": "cosmic",
+      "hint": "c_____"
+    },
+    {
+      "word": "costume",
+      "hint": "c______"
+    },
+    {
+      "word": "couch",
+      "hint": "c____"
+    },
+    {
+      "word": "counsel",
+      "hint": "c______"
+    },
+    {
+      "word": "counterpart",
+      "hint": "co_n_______"
+    },
+    {
+      "word": "courtesy",
+      "hint": "c______y"
+    },
+    {
+      "word": "coward",
+      "hint": "c_____"
+    },
+    {
+      "word": "cradle",
+      "hint": "c_____"
+    },
+    {
+      "word": "creation",
+      "hint": "c_____o_"
+    },
+    {
+      "word": "cripple",
+      "hint": "c______"
+    },
+    {
+      "word": "crisp",
+      "hint": "c____"
+    },
+    {
+      "word": "criterion",
+      "hint": "c_____i__"
+    },
+    {
+      "word": "crucial",
+      "hint": "c______"
+    },
+    {
+      "word": "cruise",
+      "hint": "c_____"
+    },
+    {
+      "word": "cue",
+      "hint": "___"
+    },
+    {
+      "word": "culminate",
+      "hint": "c____n___"
+    },
+    {
+      "word": "cumulative",
+      "hint": "c_m_______"
+    },
+    {
+      "word": "curb",
+      "hint": "____"
+    },
+    {
+      "word": "curt",
+      "hint": "____"
+    },
+    {
+      "word": "currency",
+      "hint": "c____n__"
+    },
+    {
+      "word": "curriculum",
+      "hint": "c________m"
+    },
+    {
+      "word": "customary",
+      "hint": "c______r_"
+    },
+    {
+      "word": "cylinder",
+      "hint": "c______r"
+    },
+    {
+      "word": "cynical",
+      "hint": "c______"
+    },
+    {
+      "word": "damn",
+      "hint": "____"
+    },
+    {
+      "word": "dazzle",
+      "hint": "d_____"
+    },
+    {
+      "word": "deadly",
+      "hint": "d_____"
+    },
+    {
+      "word": "decent",
+      "hint": "d_____"
+    },
+    {
+      "word": "decimal",
+      "hint": "d______"
+    },
+    {
+      "word": "decisive",
+      "hint": "d______e"
+    },
+    {
+      "word": "declaration",
+      "hint": "de__a______"
+    },
+    {
+      "word": "decline",
+      "hint": "d______"
+    },
+    {
+      "word": "dedicate",
+      "hint": "d_____t_"
+    },
+    {
+      "word": "deem",
+      "hint": "____"
+    },
+    {
+      "word": "deficiency",
+      "hint": "d___c_____"
+    },
+    {
+      "word": "deficit",
+      "hint": "d______"
+    },
+    {
+      "word": "defy",
+      "hint": "____"
+    },
+    {
+      "word": "degenerate",
+      "hint": "de________"
+    },
+    {
+      "word": "degrade",
+      "hint": "d______"
+    },
+    {
+      "word": "delegate",
+      "hint": "d_l_____"
+    },
+    {
+      "word": "deliberate",
+      "hint": "d_______t_"
+    },
+    {
+      "word": "denial",
+      "hint": "d_____"
+    },
+    {
+      "word": "denote",
+      "hint": "d_____"
+    },
+    {
+      "word": "denounce",
+      "hint": "d___u___"
+    },
+    {
+      "word": "dentist",
+      "hint": "d______"
+    },
+    {
+      "word": "depict",
+      "hint": "d_____"
+    },
+    {
+      "word": "depression",
+      "hint": "de________"
+    },
+    {
+      "word": "deprive",
+      "hint": "d______"
+    },
+    {
+      "word": "depute",
+      "hint": "d_____"
+    },
+    {
+      "word": "descendant",
+      "hint": "d_____d___"
+    },
+    {
+      "word": "descent",
+      "hint": "d______"
+    },
+    {
+      "word": "designate",
+      "hint": "d_____a__"
+    },
+    {
+      "word": "despatch",
+      "hint": "d____t__"
+    },
+    {
+      "word": "despise",
+      "hint": "d______"
+    },
+    {
+      "word": "destined",
+      "hint": "d______d"
+    },
+    {
+      "word": "destiny",
+      "hint": "d______"
+    },
+    {
+      "word": "destructive",
+      "hint": "d_s__u_____"
+    },
+    {
+      "word": "detach",
+      "hint": "d_____"
+    },
+    {
+      "word": "detective",
+      "hint": "d_t______"
+    },
+    {
+      "word": "deteriorate",
+      "hint": "d________te"
+    },
+    {
+      "word": "deviate",
+      "hint": "d______"
+    },
+    {
+      "word": "diagnose",
+      "hint": "d______e"
+    },
+    {
+      "word": "diet",
+      "hint": "____"
+    },
+    {
+      "word": "differentiate",
+      "hint": "d__f_______t_"
+    },
+    {
+      "word": "diffuse",
+      "hint": "d______"
+    },
+    {
+      "word": "dignity",
+      "hint": "d______"
+    },
+    {
+      "word": "dilemma",
+      "hint": "d______"
+    },
+    {
+      "word": "dilute",
+      "hint": "d_____"
+    },
+    {
+      "word": "diminish",
+      "hint": "d____i__"
+    },
+    {
+      "word": "dine",
+      "hint": "____"
+    },
+    {
+      "word": "diploma",
+      "hint": "d______"
+    },
+    {
+      "word": "diplomatic",
+      "hint": "d_______i_"
+    },
+    {
+      "word": "directory",
+      "hint": "d_____o__"
+    },
+    {
+      "word": "disable",
+      "hint": "d______"
+    },
+    {
+      "word": "disastrous",
+      "hint": "d______o__"
+    },
+    {
+      "word": "discern",
+      "hint": "d______"
+    },
+    {
+      "word": "disclose",
+      "hint": "d______e"
+    },
+    {
+      "word": "discount",
+      "hint": "d______t"
+    },
+    {
+      "word": "discrepancy",
+      "hint": "d____e__n__"
+    },
+    {
+      "word": "discrete",
+      "hint": "d____e__"
+    },
+    {
+      "word": "discriminate",
+      "hint": "d______i___e"
+    },
+    {
+      "word": "disguise",
+      "hint": "d______e"
+    },
+    {
+      "word": "dismay",
+      "hint": "d_____"
+    },
+    {
+      "word": "dispatch",
+      "hint": "d___a___"
+    },
+    {
+      "word": "disperse",
+      "hint": "d_____s_"
+    },
+    {
+      "word": "displace",
+      "hint": "d______e"
+    },
+    {
+      "word": "disposition",
+      "hint": "d____si____"
+    },
+    {
+      "word": "disregard",
+      "hint": "d______r_"
+    },
+    {
+      "word": "disrupt",
+      "hint": "d______"
+    },
+    {
+      "word": "dissipate",
+      "hint": "d____p___"
+    },
+    {
+      "word": "distil",
+      "hint": "d_____"
+    },
+    {
+      "word": "distort",
+      "hint": "d______"
+    },
+    {
+      "word": "distract",
+      "hint": "d__t____"
+    },
+    {
+      "word": "disturbance",
+      "hint": "di____b____"
+    },
+    {
+      "word": "diversion",
+      "hint": "d_v______"
+    },
+    {
+      "word": "divert",
+      "hint": "d_____"
+    },
+    {
+      "word": "divine",
+      "hint": "d_____"
+    },
+    {
+      "word": "dizzy",
+      "hint": "d____"
+    },
+    {
+      "word": "dock",
+      "hint": "____"
+    },
+    {
+      "word": "doctrine",
+      "hint": "d____i__"
+    },
+    {
+      "word": "domain",
+      "hint": "d_____"
+    },
+    {
+      "word": "dome",
+      "hint": "____"
+    },
+    {
+      "word": "dominant",
+      "hint": "d______t"
+    },
+    {
+      "word": "dominate",
+      "hint": "d____a__"
+    },
+    {
+      "word": "donate",
+      "hint": "d_____"
+    },
+    {
+      "word": "doom",
+      "hint": "____"
+    },
+    {
+      "word": "doubtless",
+      "hint": "d__b_____"
+    },
+    {
+      "word": "drainage",
+      "hint": "d______e"
+    },
+    {
+      "word": "drastic",
+      "hint": "d______"
+    },
+    {
+      "word": "drawback",
+      "hint": "d_a_____"
+    },
+    {
+      "word": "dreadful",
+      "hint": "dr______"
+    },
+    {
+      "word": "drought",
+      "hint": "d______"
+    },
+    {
+      "word": "dual",
+      "hint": "____"
+    },
+    {
+      "word": "dubious",
+      "hint": "d______"
+    },
+    {
+      "word": "duplicate",
+      "hint": "d____c___"
+    },
+    {
+      "word": "dwell",
+      "hint": "d____"
+    },
+    {
+      "word": "earnings",
+      "hint": "ea______"
+    },
+    {
+      "word": "Easter",
+      "hint": "E_____"
+    },
+    {
+      "word": "eccentric",
+      "hint": "e___n____"
+    },
+    {
+      "word": "eclipse",
+      "hint": "e______"
+    },
+    {
+      "word": "ecology",
+      "hint": "e______"
+    },
+    {
+      "word": "economics",
+      "hint": "e_o______"
+    },
+    {
+      "word": "edible",
+      "hint": "e_____"
+    },
+    {
+      "word": "edit",
+      "hint": "____"
+    },
+    {
+      "word": "editorial",
+      "hint": "e______a_"
+    },
+    {
+      "word": "ego",
+      "hint": "___"
+    },
+    {
+      "word": "eject",
+      "hint": "e____"
+    },
+    {
+      "word": "elapse",
+      "hint": "e_____"
+    },
+    {
+      "word": "elbow",
+      "hint": "e____"
+    },
+    {
+      "word": "elderly",
+      "hint": "e______"
+    },
+    {
+      "word": "electrician",
+      "hint": "e_______i_n"
+    },
+    {
+      "word": "electronics",
+      "hint": "el_______c_"
+    },
+    {
+      "word": "elegant",
+      "hint": "e______"
+    },
+    {
+      "word": "elevate",
+      "hint": "e______"
+    },
+    {
+      "word": "elicit",
+      "hint": "e_____"
+    },
+    {
+      "word": "eligible",
+      "hint": "e_i_____"
+    },
+    {
+      "word": "elite",
+      "hint": "e____"
+    },
+    {
+      "word": "eloquent",
+      "hint": "e______t"
+    },
+    {
+      "word": "embark",
+      "hint": "e_____"
+    },
+    {
+      "word": "embassy",
+      "hint": "e______"
+    },
+    {
+      "word": "embed",
+      "hint": "e____"
+    },
+    {
+      "word": "embody",
+      "hint": "e_____"
+    },
+    {
+      "word": "empirical",
+      "hint": "e_____c__"
+    },
+    {
+      "word": "enclosure",
+      "hint": "e______r_"
+    },
+    {
+      "word": "endeavor",
+      "hint": "en______"
+    },
+    {
+      "word": "endow",
+      "hint": "e____"
+    },
+    {
+      "word": "endurance",
+      "hint": "e_d______"
+    },
+    {
+      "word": "energetic",
+      "hint": "e__r_____"
+    },
+    {
+      "word": "engagement",
+      "hint": "e____e____"
+    },
+    {
+      "word": "enhance",
+      "hint": "e______"
+    },
+    {
+      "word": "enlighten",
+      "hint": "e______e_"
+    },
+    {
+      "word": "enrich",
+      "hint": "e_____"
+    },
+    {
+      "word": "enroll",
+      "hint": "e_____"
+    },
+    {
+      "word": "ensue",
+      "hint": "e____"
+    },
+    {
+      "word": "entail",
+      "hint": "e_____"
+    },
+    {
+      "word": "enterprise",
+      "hint": "e_t_______"
+    },
+    {
+      "word": "entertainment",
+      "hint": "e______i___n_"
+    },
+    {
+      "word": "enthusiastic",
+      "hint": "en_________c"
+    },
+    {
+      "word": "entity",
+      "hint": "e_____"
+    },
+    {
+      "word": "entrepreneur",
+      "hint": "e__re_______"
+    },
+    {
+      "word": "envisage",
+      "hint": "e__i____"
+    },
+    {
+      "word": "episode",
+      "hint": "e______"
+    },
+    {
+      "word": "epoch",
+      "hint": "e____"
+    },
+    {
+      "word": "equator",
+      "hint": "e______"
+    },
+    {
+      "word": "equilibrium",
+      "hint": "e____ib____"
+    },
+    {
+      "word": "erosion",
+      "hint": "e______"
+    },
+    {
+      "word": "erroneous",
+      "hint": "e_r______"
+    },
+    {
+      "word": "erupt",
+      "hint": "e____"
+    },
+    {
+      "word": "escort",
+      "hint": "e_____"
+    },
+    {
+      "word": "essence",
+      "hint": "e______"
+    },
+    {
+      "word": "estate",
+      "hint": "e_____"
+    },
+    {
+      "word": "esthetic",
+      "hint": "es______"
+    },
+    {
+      "word": "eternal",
+      "hint": "e______"
+    },
+    {
+      "word": "ethics",
+      "hint": "e_____"
+    },
+    {
+      "word": "ethnic",
+      "hint": "e_____"
+    },
+    {
+      "word": "evoke",
+      "hint": "e____"
+    },
+    {
+      "word": "exceptional",
+      "hint": "e___pt_____"
+    },
+    {
+      "word": "exclusive",
+      "hint": "e_______e"
+    },
+    {
+      "word": "execution",
+      "hint": "e____t___"
+    },
+    {
+      "word": "exemplify",
+      "hint": "e_____i__"
+    },
+    {
+      "word": "exempt",
+      "hint": "e_____"
+    },
+    {
+      "word": "exile",
+      "hint": "e____"
+    },
+    {
+      "word": "exotic",
+      "hint": "e_____"
+    },
+    {
+      "word": "expedition",
+      "hint": "ex________"
+    },
+    {
+      "word": "expel",
+      "hint": "e____"
+    },
+    {
+      "word": "expend",
+      "hint": "e_____"
+    },
+    {
+      "word": "expenditure",
+      "hint": "e_p__d_____"
+    },
+    {
+      "word": "expertise",
+      "hint": "e___r____"
+    },
+    {
+      "word": "expire",
+      "hint": "e_____"
+    },
+    {
+      "word": "explicit",
+      "hint": "ex______"
+    },
+    {
+      "word": "exposition",
+      "hint": "ex________"
+    },
+    {
+      "word": "exquisite",
+      "hint": "e_______e"
+    },
+    {
+      "word": "extinct",
+      "hint": "e______"
+    },
+    {
+      "word": "extinguish",
+      "hint": "e______i__"
+    },
+    {
+      "word": "extract",
+      "hint": "e______"
+    },
+    {
+      "word": "extravagant",
+      "hint": "e____v_g___"
+    },
+    {
+      "word": "fabricate",
+      "hint": "f___i____"
+    },
+    {
+      "word": "facet",
+      "hint": "f____"
+    },
+    {
+      "word": "facilitate",
+      "hint": "f__i______"
+    },
+    {
+      "word": "fake",
+      "hint": "____"
+    },
+    {
+      "word": "fantastic",
+      "hint": "f___a____"
+    },
+    {
+      "word": "fantasy",
+      "hint": "f______"
+    },
+    {
+      "word": "fascinate",
+      "hint": "fa_______"
+    },
+    {
+      "word": "fax",
+      "hint": "___"
+    },
+    {
+      "word": "feast",
+      "hint": "f____"
+    },
+    {
+      "word": "federation",
+      "hint": "f_____t___"
+    },
+    {
+      "word": "feeble",
+      "hint": "f_____"
+    },
+    {
+      "word": "fellowship",
+      "hint": "f_____s___"
+    },
+    {
+      "word": "feminine",
+      "hint": "f_____n_"
+    },
+    {
+      "word": "ferry",
+      "hint": "f____"
+    },
+    {
+      "word": "finite",
+      "hint": "f_____"
+    },
+    {
+      "word": "fist",
+      "hint": "____"
+    },
+    {
+      "word": "fitting",
+      "hint": "f______"
+    },
+    {
+      "word": "fixture",
+      "hint": "f______"
+    },
+    {
+      "word": "flank",
+      "hint": "f____"
+    },
+    {
+      "word": "flap",
+      "hint": "____"
+    },
+    {
+      "word": "flare",
+      "hint": "f____"
+    },
+    {
+      "word": "flatter",
+      "hint": "f______"
+    },
+    {
+      "word": "flaw",
+      "hint": "____"
+    },
+    {
+      "word": "flee",
+      "hint": "____"
+    },
+    {
+      "word": "fling",
+      "hint": "f____"
+    },
+    {
+      "word": "fluctuate",
+      "hint": "fl_______"
+    },
+    {
+      "word": "flush",
+      "hint": "f____"
+    },
+    {
+      "word": "flutter",
+      "hint": "f______"
+    },
+    {
+      "word": "foam",
+      "hint": "____"
+    },
+    {
+      "word": "foil",
+      "hint": "____"
+    },
+    {
+      "word": "foremost",
+      "hint": "f_____s_"
+    },
+    {
+      "word": "foresee",
+      "hint": "f______"
+    },
+    {
+      "word": "format",
+      "hint": "f_____"
+    },
+    {
+      "word": "formidable",
+      "hint": "f__m______"
+    },
+    {
+      "word": "formulate",
+      "hint": "f___u____"
+    },
+    {
+      "word": "fort",
+      "hint": "____"
+    },
+    {
+      "word": "forthcoming",
+      "hint": "f___h__m___"
+    },
+    {
+      "word": "forum",
+      "hint": "f____"
+    },
+    {
+      "word": "fossil",
+      "hint": "f_____"
+    },
+    {
+      "word": "foster",
+      "hint": "f_____"
+    },
+    {
+      "word": "foul",
+      "hint": "____"
+    },
+    {
+      "word": "fracture",
+      "hint": "f___t___"
+    },
+    {
+      "word": "fragile",
+      "hint": "f______"
+    },
+    {
+      "word": "fraud",
+      "hint": "f____"
+    },
+    {
+      "word": "fringe",
+      "hint": "f_____"
+    },
+    {
+      "word": "frustrate",
+      "hint": "f___t____"
+    },
+    {
+      "word": "furious",
+      "hint": "f______"
+    },
+    {
+      "word": "fuse",
+      "hint": "____"
+    },
+    {
+      "word": "fusion",
+      "hint": "f_____"
+    },
+    {
+      "word": "fuss",
+      "hint": "____"
+    },
+    {
+      "word": "galaxy",
+      "hint": "g_____"
+    },
+    {
+      "word": "gallery",
+      "hint": "g______"
+    },
+    {
+      "word": "gamble",
+      "hint": "g_____"
+    },
+    {
+      "word": "gaol",
+      "hint": "____"
+    },
+    {
+      "word": "garbage",
+      "hint": "g______"
+    },
+    {
+      "word": "garment",
+      "hint": "g______"
+    },
+    {
+      "word": "gasp",
+      "hint": "____"
+    },
+    {
+      "word": "gear",
+      "hint": "____"
+    },
+    {
+      "word": "gene",
+      "hint": "____"
+    },
+    {
+      "word": "generalize",
+      "hint": "g__e______"
+    },
+    {
+      "word": "genetic",
+      "hint": "g______"
+    },
+    {
+      "word": "geology",
+      "hint": "g______"
+    },
+    {
+      "word": "gigantic",
+      "hint": "g______c"
+    },
+    {
+      "word": "given",
+      "hint": "g____"
+    },
+    {
+      "word": "glare",
+      "hint": "g____"
+    },
+    {
+      "word": "gleam",
+      "hint": "g____"
+    },
+    {
+      "word": "glide",
+      "hint": "g____"
+    },
+    {
+      "word": "glitter",
+      "hint": "g______"
+    },
+    {
+      "word": "global",
+      "hint": "g_____"
+    },
+    {
+      "word": "gloomy",
+      "hint": "g_____"
+    },
+    {
+      "word": "gorgeous",
+      "hint": "g_____u_"
+    },
+    {
+      "word": "gossip",
+      "hint": "g_____"
+    },
+    {
+      "word": "grab",
+      "hint": "____"
+    },
+    {
+      "word": "gracious",
+      "hint": "g______s"
+    },
+    {
+      "word": "graze",
+      "hint": "g____"
+    },
+    {
+      "word": "grease",
+      "hint": "g_____"
+    },
+    {
+      "word": "grief",
+      "hint": "g____"
+    },
+    {
+      "word": "grieve",
+      "hint": "g_____"
+    },
+    {
+      "word": "grim",
+      "hint": "____"
+    },
+    {
+      "word": "grin",
+      "hint": "____"
+    },
+    {
+      "word": "groan",
+      "hint": "g____"
+    },
+    {
+      "word": "grope",
+      "hint": "g____"
+    },
+    {
+      "word": "guardian",
+      "hint": "g____i__"
+    },
+    {
+      "word": "guideline",
+      "hint": "g____l___"
+    },
+    {
+      "word": "guy",
+      "hint": "___"
+    },
+    {
+      "word": "hamper",
+      "hint": "h_____"
+    },
+    {
+      "word": "handbook",
+      "hint": "h___b___"
+    },
+    {
+      "word": "handicap",
+      "hint": "h___i___"
+    },
+    {
+      "word": "hasty",
+      "hint": "h____"
+    },
+    {
+      "word": "hatch",
+      "hint": "h____"
+    },
+    {
+      "word": "haul",
+      "hint": "____"
+    },
+    {
+      "word": "haunt",
+      "hint": "h____"
+    },
+    {
+      "word": "heal",
+      "hint": "____"
+    },
+    {
+      "word": "hearing",
+      "hint": "h______"
+    },
+    {
+      "word": "heave",
+      "hint": "h____"
+    },
+    {
+      "word": "heighten",
+      "hint": "h____t__"
+    },
+    {
+      "word": "heir",
+      "hint": "____"
+    },
+    {
+      "word": "hemisphere",
+      "hint": "he________"
+    },
+    {
+      "word": "henceforth",
+      "hint": "he________"
+    },
+    {
+      "word": "heritage",
+      "hint": "h____a__"
+    },
+    {
+      "word": "hierarchy",
+      "hint": "h______h_"
+    },
+    {
+      "word": "highlight",
+      "hint": "h___l____"
+    },
+    {
+      "word": "hinder",
+      "hint": "h_____"
+    },
+    {
+      "word": "hinge",
+      "hint": "h____"
+    },
+    {
+      "word": "historian",
+      "hint": "h_______n"
+    },
+    {
+      "word": "historic",
+      "hint": "h__t____"
+    },
+    {
+      "word": "hitherto",
+      "hint": "hi______"
+    },
+    {
+      "word": "hoist",
+      "hint": "h____"
+    },
+    {
+      "word": "homogeneous",
+      "hint": "h_m_____o__"
+    },
+    {
+      "word": "horrible",
+      "hint": "h_r_____"
+    },
+    {
+      "word": "hose",
+      "hint": "____"
+    },
+    {
+      "word": "hospitality",
+      "hint": "h_____a_i__"
+    },
+    {
+      "word": "hostage",
+      "hint": "h______"
+    },
+    {
+      "word": "hover",
+      "hint": "h____"
+    },
+    {
+      "word": "hug",
+      "hint": "___"
+    },
+    {
+      "word": "humanity",
+      "hint": "h___n___"
+    },
+    {
+      "word": "humidity",
+      "hint": "h___d___"
+    },
+    {
+      "word": "hurl",
+      "hint": "____"
+    },
+    {
+      "word": "hurricane",
+      "hint": "h_r______"
+    },
+    {
+      "word": "hypothesis",
+      "hint": "h__o______"
+    },
+    {
+      "word": "hysterical",
+      "hint": "h_s_______"
+    },
+    {
+      "word": "identification",
+      "hint": "i_en____c_____"
+    },
+    {
+      "word": "identity",
+      "hint": "i___t___"
+    },
+    {
+      "word": "ideology",
+      "hint": "i___l___"
+    },
+    {
+      "word": "idiom",
+      "hint": "i____"
+    },
+    {
+      "word": "ignite",
+      "hint": "i_____"
+    },
+    {
+      "word": "ignorance",
+      "hint": "i____a___"
+    },
+    {
+      "word": "illuminate",
+      "hint": "i____i____"
+    },
+    {
+      "word": "illusion",
+      "hint": "il______"
+    },
+    {
+      "word": "imaginative",
+      "hint": "i_a______v_"
+    },
+    {
+      "word": "imitation",
+      "hint": "i______o_"
+    },
+    {
+      "word": "immerse",
+      "hint": "i______"
+    },
+    {
+      "word": "immune",
+      "hint": "i_____"
+    },
+    {
+      "word": "impair",
+      "hint": "i_____"
+    },
+    {
+      "word": "impart",
+      "hint": "i_____"
+    },
+    {
+      "word": "imperative",
+      "hint": "i___r_____"
+    },
+    {
+      "word": "imperial",
+      "hint": "i____i__"
+    },
+    {
+      "word": "impetus",
+      "hint": "i______"
+    },
+    {
+      "word": "implement",
+      "hint": "i______n_"
+    },
+    {
+      "word": "implicit",
+      "hint": "im______"
+    },
+    {
+      "word": "impulse",
+      "hint": "i______"
+    },
+    {
+      "word": "inaugurate",
+      "hint": "in________"
+    },
+    {
+      "word": "incentive",
+      "hint": "i____t___"
+    },
+    {
+      "word": "incidence",
+      "hint": "i__i_____"
+    },
+    {
+      "word": "incidentally",
+      "hint": "in____n_____"
+    },
+    {
+      "word": "inclusive",
+      "hint": "i___u____"
+    },
+    {
+      "word": "incorporate",
+      "hint": "in_o_______"
+    },
+    {
+      "word": "incredible",
+      "hint": "i________e"
+    },
+    {
+      "word": "incur",
+      "hint": "i____"
+    },
+    {
+      "word": "indefinite",
+      "hint": "in________"
+    },
+    {
+      "word": "indicative",
+      "hint": "i_____t___"
+    },
+    {
+      "word": "indignant",
+      "hint": "i_______t"
+    },
+    {
+      "word": "indignation",
+      "hint": "i__i____i__"
+    },
+    {
+      "word": "induce",
+      "hint": "i_____"
+    },
+    {
+      "word": "indulge",
+      "hint": "i______"
+    },
+    {
+      "word": "inertia",
+      "hint": "i______"
+    },
+    {
+      "word": "infectious",
+      "hint": "i_f_______"
+    },
+    {
+      "word": "inference",
+      "hint": "i_____n__"
+    },
+    {
+      "word": "inflation",
+      "hint": "in_______"
+    },
+    {
+      "word": "inflict",
+      "hint": "i______"
+    },
+    {
+      "word": "ingenious",
+      "hint": "i_____o__"
+    },
+    {
+      "word": "ingredient",
+      "hint": "i_g_______"
+    },
+    {
+      "word": "inhabit",
+      "hint": "i______"
+    },
+    {
+      "word": "inhibit",
+      "hint": "i______"
+    },
+    {
+      "word": "initiate",
+      "hint": "i_____t_"
+    },
+    {
+      "word": "initiative",
+      "hint": "i_____t___"
+    },
+    {
+      "word": "inject",
+      "hint": "i_____"
+    },
+    {
+      "word": "inland",
+      "hint": "i_____"
+    },
+    {
+      "word": "inlet",
+      "hint": "i____"
+    },
+    {
+      "word": "innovation",
+      "hint": "i_______o_"
+    },
+    {
+      "word": "innumerable",
+      "hint": "i____e_a___"
+    },
+    {
+      "word": "insane",
+      "hint": "i_____"
+    },
+    {
+      "word": "insight",
+      "hint": "i______"
+    },
+    {
+      "word": "inspiration",
+      "hint": "i______t__n"
+    },
+    {
+      "word": "installment",
+      "hint": "i_s_a______"
+    },
+    {
+      "word": "instantaneous",
+      "hint": "i__ta________"
+    },
+    {
+      "word": "instrumental",
+      "hint": "i_____m___a_"
+    },
+    {
+      "word": "insulate",
+      "hint": "i_____t_"
+    },
+    {
+      "word": "intact",
+      "hint": "i_____"
+    },
+    {
+      "word": "integral",
+      "hint": "i_____a_"
+    },
+    {
+      "word": "integrate",
+      "hint": "i_______e"
+    },
+    {
+      "word": "integrity",
+      "hint": "i______t_"
+    },
+    {
+      "word": "intellect",
+      "hint": "i___l____"
+    },
+    {
+      "word": "intelligible",
+      "hint": "i_t_______l_"
+    },
+    {
+      "word": "intensify",
+      "hint": "i______f_"
+    },
+    {
+      "word": "intent",
+      "hint": "i_____"
+    },
+    {
+      "word": "interact",
+      "hint": "i__e____"
+    },
+    {
+      "word": "interim",
+      "hint": "i______"
+    },
+    {
+      "word": "intermittent",
+      "hint": "i_____i__e__"
+    },
+    {
+      "word": "intersection",
+      "hint": "in______t___"
+    },
+    {
+      "word": "intervene",
+      "hint": "i_______e"
+    },
+    {
+      "word": "intimidate",
+      "hint": "i______a__"
+    },
+    {
+      "word": "intricate",
+      "hint": "i_______e"
+    },
+    {
+      "word": "intrigue",
+      "hint": "i___i___"
+    },
+    {
+      "word": "intrinsic",
+      "hint": "i_t______"
+    },
+    {
+      "word": "intuition",
+      "hint": "i______o_"
+    },
+    {
+      "word": "invalid",
+      "hint": "i______"
+    },
+    {
+      "word": "invaluable",
+      "hint": "i___l_____"
+    },
+    {
+      "word": "invariably",
+      "hint": "i_____a___"
+    },
+    {
+      "word": "inventory",
+      "hint": "i_v______"
+    },
+    {
+      "word": "invert",
+      "hint": "i_____"
+    },
+    {
+      "word": "irony",
+      "hint": "i____"
+    },
+    {
+      "word": "irrespective",
+      "hint": "i____pe_____"
+    },
+    {
+      "word": "irrigation",
+      "hint": "i________n"
+    },
+    {
+      "word": "irritate",
+      "hint": "i____a__"
+    },
+    {
+      "word": "ivory",
+      "hint": "i____"
+    },
+    {
+      "word": "jail",
+      "hint": "____"
+    },
+    {
+      "word": "jeopardize",
+      "hint": "je________"
+    },
+    {
+      "word": "jerk",
+      "hint": "____"
+    },
+    {
+      "word": "journalist",
+      "hint": "j_______s_"
+    },
+    {
+      "word": "junction",
+      "hint": "j______n"
+    },
+    {
+      "word": "jury",
+      "hint": "____"
+    },
+    {
+      "word": "justification",
+      "hint": "j_____ic_____"
+    },
+    {
+      "word": "kidney",
+      "hint": "k_____"
+    },
+    {
+      "word": "kit",
+      "hint": "___"
+    },
+    {
+      "word": "knit",
+      "hint": "____"
+    },
+    {
+      "word": "knob",
+      "hint": "____"
+    },
+    {
+      "word": "lamb",
+      "hint": "____"
+    },
+    {
+      "word": "lame",
+      "hint": "____"
+    },
+    {
+      "word": "landscape",
+      "hint": "la_______"
+    },
+    {
+      "word": "latent",
+      "hint": "l_____"
+    },
+    {
+      "word": "latitude",
+      "hint": "l_t_____"
+    },
+    {
+      "word": "layman",
+      "hint": "l_____"
+    },
+    {
+      "word": "leaflet",
+      "hint": "l______"
+    },
+    {
+      "word": "lease",
+      "hint": "l____"
+    },
+    {
+      "word": "legend",
+      "hint": "l_____"
+    },
+    {
+      "word": "legislation",
+      "hint": "l_g___a____"
+    },
+    {
+      "word": "legitimate",
+      "hint": "l_____m___"
+    },
+    {
+      "word": "liability",
+      "hint": "l__b_____"
+    },
+    {
+      "word": "lick",
+      "hint": "____"
+    },
+    {
+      "word": "likelihood",
+      "hint": "l___l_____"
+    },
+    {
+      "word": "limp",
+      "hint": "____"
+    },
+    {
+      "word": "linear",
+      "hint": "l_____"
+    },
+    {
+      "word": "liner",
+      "hint": "l____"
+    },
+    {
+      "word": "linger",
+      "hint": "l_____"
+    },
+    {
+      "word": "literacy",
+      "hint": "l_____c_"
+    },
+    {
+      "word": "literal",
+      "hint": "l______"
+    },
+    {
+      "word": "litter",
+      "hint": "l_____"
+    },
+    {
+      "word": "lobby",
+      "hint": "l____"
+    },
+    {
+      "word": "locality",
+      "hint": "lo______"
+    },
+    {
+      "word": "locomotive",
+      "hint": "l________e"
+    },
+    {
+      "word": "lofty",
+      "hint": "l____"
+    },
+    {
+      "word": "longitude",
+      "hint": "l____t___"
+    },
+    {
+      "word": "lounge",
+      "hint": "l_____"
+    },
+    {
+      "word": "lubricate",
+      "hint": "l_______e"
+    },
+    {
+      "word": "luminous",
+      "hint": "l_____u_"
+    },
+    {
+      "word": "lunar",
+      "hint": "l____"
+    },
+    {
+      "word": "magnify",
+      "hint": "m______"
+    },
+    {
+      "word": "magnitude",
+      "hint": "m___i____"
+    },
+    {
+      "word": "majesty",
+      "hint": "m______"
+    },
+    {
+      "word": "mall",
+      "hint": "____"
+    },
+    {
+      "word": "manifest",
+      "hint": "m____e__"
+    },
+    {
+      "word": "manipulate",
+      "hint": "m__i______"
+    },
+    {
+      "word": "manoeuvre",
+      "hint": "m_____v__"
+    },
+    {
+      "word": "manuscript",
+      "hint": "m_____r___"
+    },
+    {
+      "word": "marble",
+      "hint": "m_____"
+    },
+    {
+      "word": "marginal",
+      "hint": "m__g____"
+    },
+    {
+      "word": "marsh",
+      "hint": "m____"
+    },
+    {
+      "word": "marshal",
+      "hint": "m______"
+    },
+    {
+      "word": "masculine",
+      "hint": "m___u____"
+    },
+    {
+      "word": "massive",
+      "hint": "m______"
+    },
+    {
+      "word": "masterpiece",
+      "hint": "m____r____e"
+    },
+    {
+      "word": "meadow",
+      "hint": "m_____"
+    },
+    {
+      "word": "mechanism",
+      "hint": "m_______m"
+    },
+    {
+      "word": "medal",
+      "hint": "m____"
+    },
+    {
+      "word": "media",
+      "hint": "m____"
+    },
+    {
+      "word": "mediate",
+      "hint": "m______"
+    },
+    {
+      "word": "medieval",
+      "hint": "me______"
+    },
+    {
+      "word": "Mediterranean",
+      "hint": "M______r___a_"
+    },
+    {
+      "word": "melody",
+      "hint": "m_____"
+    },
+    {
+      "word": "membership",
+      "hint": "m____r____"
+    },
+    {
+      "word": "menace",
+      "hint": "m_____"
+    },
+    {
+      "word": "merge",
+      "hint": "m____"
+    },
+    {
+      "word": "mess",
+      "hint": "____"
+    },
+    {
+      "word": "messenger",
+      "hint": "me_______"
+    },
+    {
+      "word": "metallic",
+      "hint": "m_t_____"
+    },
+    {
+      "word": "metropolitan",
+      "hint": "m___o______n"
+    },
+    {
+      "word": "midst",
+      "hint": "m____"
+    },
+    {
+      "word": "migrate",
+      "hint": "m______"
+    },
+    {
+      "word": "militant",
+      "hint": "m______t"
+    },
+    {
+      "word": "mingle",
+      "hint": "m_____"
+    },
+    {
+      "word": "miniature",
+      "hint": "m__i_____"
+    },
+    {
+      "word": "minimal",
+      "hint": "m______"
+    },
+    {
+      "word": "minimize",
+      "hint": "m_n_____"
+    },
+    {
+      "word": "misery",
+      "hint": "m_____"
+    },
+    {
+      "word": "misfortune",
+      "hint": "m_____t___"
+    },
+    {
+      "word": "missionary",
+      "hint": "m____o____"
+    },
+    {
+      "word": "mobilize",
+      "hint": "m_b_____"
+    },
+    {
+      "word": "mock",
+      "hint": "____"
+    },
+    {
+      "word": "momentum",
+      "hint": "m____t__"
+    },
+    {
+      "word": "monopoly",
+      "hint": "m___p___"
+    },
+    {
+      "word": "monster",
+      "hint": "m______"
+    },
+    {
+      "word": "morality",
+      "hint": "mo______"
+    },
+    {
+      "word": "mortal",
+      "hint": "m_____"
+    },
+    {
+      "word": "mortgage",
+      "hint": "m__t____"
+    },
+    {
+      "word": "motel",
+      "hint": "m____"
+    },
+    {
+      "word": "mourn",
+      "hint": "m____"
+    },
+    {
+      "word": "muddy",
+      "hint": "m____"
+    },
+    {
+      "word": "multitude",
+      "hint": "m____t___"
+    },
+    {
+      "word": "municipal",
+      "hint": "m____i___"
+    },
+    {
+      "word": "murmur",
+      "hint": "m_____"
+    },
+    {
+      "word": "muscular",
+      "hint": "m__c____"
+    },
+    {
+      "word": "mutter",
+      "hint": "m_____"
+    },
+    {
+      "word": "myth",
+      "hint": "____"
+    },
+    {
+      "word": "naive",
+      "hint": "n____"
+    },
+    {
+      "word": "narrative",
+      "hint": "n__r_____"
+    },
+    {
+      "word": "nasty",
+      "hint": "n____"
+    },
+    {
+      "word": "necessitate",
+      "hint": "n_______a_e"
+    },
+    {
+      "word": "negligible",
+      "hint": "n________e"
+    },
+    {
+      "word": "negotiate",
+      "hint": "n_g______"
+    },
+    {
+      "word": "nickel",
+      "hint": "n_____"
+    },
+    {
+      "word": "nightmare",
+      "hint": "n___t____"
+    },
+    {
+      "word": "nominal",
+      "hint": "n______"
+    },
+    {
+      "word": "nominate",
+      "hint": "n_____t_"
+    },
+    {
+      "word": "nonetheless",
+      "hint": "n_____e__s_"
+    },
+    {
+      "word": "norm",
+      "hint": "____"
+    },
+    {
+      "word": "notable",
+      "hint": "n______"
+    },
+    {
+      "word": "notation",
+      "hint": "n___t___"
+    },
+    {
+      "word": "notify",
+      "hint": "n_____"
+    },
+    {
+      "word": "notion",
+      "hint": "n_____"
+    },
+    {
+      "word": "notorious",
+      "hint": "no_______"
+    },
+    {
+      "word": "notwithstanding",
+      "hint": "no____h___n____"
+    },
+    {
+      "word": "nourish",
+      "hint": "n______"
+    },
+    {
+      "word": "novelty",
+      "hint": "n______"
+    },
+    {
+      "word": "numerical",
+      "hint": "n______a_"
+    },
+    {
+      "word": "nutrition",
+      "hint": "n_____i__"
+    },
+    {
+      "word": "oath",
+      "hint": "____"
+    },
+    {
+      "word": "obedient",
+      "hint": "o______t"
+    },
+    {
+      "word": "obligation",
+      "hint": "o__i______"
+    },
+    {
+      "word": "obscene",
+      "hint": "o______"
+    },
+    {
+      "word": "obscure",
+      "hint": "o______"
+    },
+    {
+      "word": "odor",
+      "hint": "____"
+    },
+    {
+      "word": "offence",
+      "hint": "o______"
+    },
+    {
+      "word": "offensive",
+      "hint": "o______v_"
+    },
+    {
+      "word": "offset",
+      "hint": "o_____"
+    },
+    {
+      "word": "offspring",
+      "hint": "o_____i__"
+    },
+    {
+      "word": "opaque",
+      "hint": "o_____"
+    },
+    {
+      "word": "oppress",
+      "hint": "o______"
+    },
+    {
+      "word": "optimism",
+      "hint": "op______"
+    },
+    {
+      "word": "optimum",
+      "hint": "o______"
+    },
+    {
+      "word": "option",
+      "hint": "o_____"
+    },
+    {
+      "word": "orient",
+      "hint": "o_____"
+    },
+    {
+      "word": "oriental",
+      "hint": "o_____a_"
+    },
+    {
+      "word": "orientation",
+      "hint": "o___nt_____"
+    },
+    {
+      "word": "originate",
+      "hint": "o__g_____"
+    },
+    {
+      "word": "ornament",
+      "hint": "o___m___"
+    },
+    {
+      "word": "orthodox",
+      "hint": "o___o___"
+    },
+    {
+      "word": "outbreak",
+      "hint": "o___r___"
+    },
+    {
+      "word": "oval",
+      "hint": "____"
+    },
+    {
+      "word": "overflow",
+      "hint": "o____l__"
+    },
+    {
+      "word": "overhear",
+      "hint": "o_e_____"
+    },
+    {
+      "word": "overlap",
+      "hint": "o______"
+    },
+    {
+      "word": "overt",
+      "hint": "o____"
+    },
+    {
+      "word": "overthrow",
+      "hint": "o_e______"
+    },
+    {
+      "word": "overwhelm",
+      "hint": "o__r_____"
+    },
+    {
+      "word": "oxide",
+      "hint": "o____"
+    },
+    {
+      "word": "pamphlet",
+      "hint": "p______t"
+    },
+    {
+      "word": "panic",
+      "hint": "p____"
+    },
+    {
+      "word": "paradise",
+      "hint": "pa______"
+    },
+    {
+      "word": "paradox",
+      "hint": "p______"
+    },
+    {
+      "word": "paralyze",
+      "hint": "p____y__"
+    },
+    {
+      "word": "parameter",
+      "hint": "p__a_____"
+    },
+    {
+      "word": "participant",
+      "hint": "p____c_p___"
+    },
+    {
+      "word": "partition",
+      "hint": "p___i____"
+    },
+    {
+      "word": "pastime",
+      "hint": "p______"
+    },
+    {
+      "word": "pasture",
+      "hint": "p______"
+    },
+    {
+      "word": "patent",
+      "hint": "p_____"
+    },
+    {
+      "word": "pathetic",
+      "hint": "p_____i_"
+    },
+    {
+      "word": "patriotic",
+      "hint": "p_____t__"
+    },
+    {
+      "word": "patrol",
+      "hint": "p_____"
+    },
+    {
+      "word": "pave",
+      "hint": "____"
+    },
+    {
+      "word": "pearl",
+      "hint": "p____"
+    },
+    {
+      "word": "pedal",
+      "hint": "p____"
+    },
+    {
+      "word": "pedestrian",
+      "hint": "p__e______"
+    },
+    {
+      "word": "peel",
+      "hint": "____"
+    },
+    {
+      "word": "peer",
+      "hint": "____"
+    },
+    {
+      "word": "penalty",
+      "hint": "p______"
+    },
+    {
+      "word": "pendulum",
+      "hint": "p_____u_"
+    },
+    {
+      "word": "pension",
+      "hint": "p______"
+    },
+    {
+      "word": "perception",
+      "hint": "pe________"
+    },
+    {
+      "word": "perfection",
+      "hint": "p____c____"
+    },
+    {
+      "word": "perfume",
+      "hint": "p______"
+    },
+    {
+      "word": "periodic",
+      "hint": "p___o___"
+    },
+    {
+      "word": "periodical",
+      "hint": "p___o_____"
+    },
+    {
+      "word": "perish",
+      "hint": "p_____"
+    },
+    {
+      "word": "permeate",
+      "hint": "p______e"
+    },
+    {
+      "word": "permissible",
+      "hint": "pe________e"
+    },
+    {
+      "word": "perpetual",
+      "hint": "pe_______"
+    },
+    {
+      "word": "perplex",
+      "hint": "p______"
+    },
+    {
+      "word": "persistent",
+      "hint": "p___i_____"
+    },
+    {
+      "word": "pest",
+      "hint": "____"
+    },
+    {
+      "word": "petition",
+      "hint": "p___t___"
+    },
+    {
+      "word": "petty",
+      "hint": "p____"
+    },
+    {
+      "word": "physiological",
+      "hint": "p_y____o_____"
+    },
+    {
+      "word": "plague",
+      "hint": "p_____"
+    },
+    {
+      "word": "plaster",
+      "hint": "p______"
+    },
+    {
+      "word": "plateau",
+      "hint": "p______"
+    },
+    {
+      "word": "plausible",
+      "hint": "p______l_"
+    },
+    {
+      "word": "plea",
+      "hint": "____"
+    },
+    {
+      "word": "plea",
+      "hint": "____"
+    },
+    {
+      "word": "plead",
+      "hint": "p____"
+    },
+    {
+      "word": "pledge",
+      "hint": "p_____"
+    },
+    {
+      "word": "poke",
+      "hint": "____"
+    },
+    {
+      "word": "polar",
+      "hint": "p____"
+    },
+    {
+      "word": "poll",
+      "hint": "____"
+    },
+    {
+      "word": "ponder",
+      "hint": "p_____"
+    },
+    {
+      "word": "pope",
+      "hint": "____"
+    },
+    {
+      "word": "porch",
+      "hint": "p____"
+    },
+    {
+      "word": "pore",
+      "hint": "____"
+    },
+    {
+      "word": "portray",
+      "hint": "p______"
+    },
+    {
+      "word": "pose",
+      "hint": "____"
+    },
+    {
+      "word": "poster",
+      "hint": "p_____"
+    },
+    {
+      "word": "postulate",
+      "hint": "p______t_"
+    },
+    {
+      "word": "practicable",
+      "hint": "p__c___a___"
+    },
+    {
+      "word": "prayer",
+      "hint": "p_____"
+    },
+    {
+      "word": "preach",
+      "hint": "p_____"
+    },
+    {
+      "word": "precede",
+      "hint": "p______"
+    },
+    {
+      "word": "precipitate",
+      "hint": "p___i_____e"
+    },
+    {
+      "word": "preclude",
+      "hint": "p__c____"
+    },
+    {
+      "word": "predecessor",
+      "hint": "p______ss__"
+    },
+    {
+      "word": "predominant",
+      "hint": "p___o____n_"
+    },
+    {
+      "word": "pregnant",
+      "hint": "p___n___"
+    },
+    {
+      "word": "premature",
+      "hint": "p_______e"
+    },
+    {
+      "word": "premise",
+      "hint": "p______"
+    },
+    {
+      "word": "premium",
+      "hint": "p______"
+    },
+    {
+      "word": "prescription",
+      "hint": "pr________o_"
+    },
+    {
+      "word": "presentation",
+      "hint": "p___e______n"
+    },
+    {
+      "word": "preside",
+      "hint": "p______"
+    },
+    {
+      "word": "prestige",
+      "hint": "p__s____"
+    },
+    {
+      "word": "presumably",
+      "hint": "p_____a___"
+    },
+    {
+      "word": "presume",
+      "hint": "p______"
+    },
+    {
+      "word": "pretext",
+      "hint": "p______"
+    },
+    {
+      "word": "prevalent",
+      "hint": "p_____e__"
+    },
+    {
+      "word": "prey",
+      "hint": "____"
+    },
+    {
+      "word": "priest",
+      "hint": "p_____"
+    },
+    {
+      "word": "priority",
+      "hint": "p______y"
+    },
+    {
+      "word": "privacy",
+      "hint": "p______"
+    },
+    {
+      "word": "probe",
+      "hint": "p____"
+    },
+    {
+      "word": "proceeding",
+      "hint": "p___e_____"
+    },
+    {
+      "word": "proclaim",
+      "hint": "p_o_____"
+    },
+    {
+      "word": "productive",
+      "hint": "pr________"
+    },
+    {
+      "word": "productivity",
+      "hint": "p________it_"
+    },
+    {
+      "word": "proficiency",
+      "hint": "p_o___i____"
+    },
+    {
+      "word": "profile",
+      "hint": "p______"
+    },
+    {
+      "word": "profitable",
+      "hint": "p_____a___"
+    },
+    {
+      "word": "profound",
+      "hint": "p___o___"
+    },
+    {
+      "word": "prolong",
+      "hint": "p______"
+    },
+    {
+      "word": "promising",
+      "hint": "p_o______"
+    },
+    {
+      "word": "prone",
+      "hint": "p____"
+    },
+    {
+      "word": "propaganda",
+      "hint": "p______n__"
+    },
+    {
+      "word": "propagate",
+      "hint": "p_____a__"
+    },
+    {
+      "word": "propel",
+      "hint": "p_____"
+    },
+    {
+      "word": "prophet",
+      "hint": "p______"
+    },
+    {
+      "word": "proposition",
+      "hint": "p_______i_n"
+    },
+    {
+      "word": "prose",
+      "hint": "p____"
+    },
+    {
+      "word": "prospective",
+      "hint": "p____e_t___"
+    },
+    {
+      "word": "prototype",
+      "hint": "pr_______"
+    },
+    {
+      "word": "provocative",
+      "hint": "p__v_c_____"
+    },
+    {
+      "word": "provoke",
+      "hint": "p______"
+    },
+    {
+      "word": "proximity",
+      "hint": "p_______y"
+    },
+    {
+      "word": "publicity",
+      "hint": "p_b______"
+    },
+    {
+      "word": "purify",
+      "hint": "p_____"
+    },
+    {
+      "word": "purity",
+      "hint": "p_____"
+    },
+    {
+      "word": "pursuit",
+      "hint": "p______"
+    },
+    {
+      "word": "qualification",
+      "hint": "q______c_t___"
+    },
+    {
+      "word": "qualitative",
+      "hint": "q__l__a____"
+    },
+    {
+      "word": "quantify",
+      "hint": "q_a_____"
+    },
+    {
+      "word": "quantitative",
+      "hint": "qu__t_______"
+    },
+    {
+      "word": "quart",
+      "hint": "q____"
+    },
+    {
+      "word": "quarterly",
+      "hint": "q__r_____"
+    },
+    {
+      "word": "quartz",
+      "hint": "q_____"
+    },
+    {
+      "word": "queer",
+      "hint": "q____"
+    },
+    {
+      "word": "quench",
+      "hint": "q_____"
+    },
+    {
+      "word": "quest",
+      "hint": "q____"
+    },
+    {
+      "word": "questionnaire",
+      "hint": "q____i__n____"
+    },
+    {
+      "word": "quiver",
+      "hint": "q_____"
+    },
+    {
+      "word": "racket",
+      "hint": "r_____"
+    },
+    {
+      "word": "radiant",
+      "hint": "r______"
+    },
+    {
+      "word": "radiate",
+      "hint": "r______"
+    },
+    {
+      "word": "radical",
+      "hint": "r______"
+    },
+    {
+      "word": "rage",
+      "hint": "____"
+    },
+    {
+      "word": "raid",
+      "hint": "____"
+    },
+    {
+      "word": "rally",
+      "hint": "r____"
+    },
+    {
+      "word": "random",
+      "hint": "r_____"
+    },
+    {
+      "word": "rating",
+      "hint": "r_____"
+    },
+    {
+      "word": "readily",
+      "hint": "r______"
+    },
+    {
+      "word": "realistic",
+      "hint": "r_a______"
+    },
+    {
+      "word": "reap",
+      "hint": "____"
+    },
+    {
+      "word": "rebellion",
+      "hint": "r_b______"
+    },
+    {
+      "word": "recession",
+      "hint": "r____s___"
+    },
+    {
+      "word": "recipe",
+      "hint": "r_____"
+    },
+    {
+      "word": "recipient",
+      "hint": "r___p____"
+    },
+    {
+      "word": "reciprocal",
+      "hint": "r___p_____"
+    },
+    {
+      "word": "recite",
+      "hint": "r_____"
+    },
+    {
+      "word": "reckless",
+      "hint": "r______s"
+    },
+    {
+      "word": "reckon",
+      "hint": "r_____"
+    },
+    {
+      "word": "reclaim",
+      "hint": "r______"
+    },
+    {
+      "word": "reconcile",
+      "hint": "r___n____"
+    },
+    {
+      "word": "recreation",
+      "hint": "r_______o_"
+    },
+    {
+      "word": "recruit",
+      "hint": "r______"
+    },
+    {
+      "word": "rectangular",
+      "hint": "r__t______r"
+    },
+    {
+      "word": "rectify",
+      "hint": "r______"
+    },
+    {
+      "word": "recur",
+      "hint": "r____"
+    },
+    {
+      "word": "recycle",
+      "hint": "r______"
+    },
+    {
+      "word": "redundant",
+      "hint": "r___n____"
+    },
+    {
+      "word": "refrain",
+      "hint": "r______"
+    },
+    {
+      "word": "refreshment",
+      "hint": "re______e__"
+    },
+    {
+      "word": "refugee",
+      "hint": "r______"
+    },
+    {
+      "word": "refute",
+      "hint": "r_____"
+    },
+    {
+      "word": "regime",
+      "hint": "r_____"
+    },
+    {
+      "word": "reign",
+      "hint": "r____"
+    },
+    {
+      "word": "rejoice",
+      "hint": "r______"
+    },
+    {
+      "word": "relay",
+      "hint": "r____"
+    },
+    {
+      "word": "reliance",
+      "hint": "r_____c_"
+    },
+    {
+      "word": "remainder",
+      "hint": "r_____d__"
+    },
+    {
+      "word": "remnant",
+      "hint": "r______"
+    },
+    {
+      "word": "renaissance",
+      "hint": "r_____s__c_"
+    },
+    {
+      "word": "repay",
+      "hint": "r____"
+    },
+    {
+      "word": "repel",
+      "hint": "r____"
+    },
+    {
+      "word": "repertoire",
+      "hint": "r____t____"
+    },
+    {
+      "word": "replacement",
+      "hint": "r___a_____t"
+    },
+    {
+      "word": "representation",
+      "hint": "r___e_______on"
+    },
+    {
+      "word": "reproach",
+      "hint": "r____a__"
+    },
+    {
+      "word": "republican",
+      "hint": "r______c__"
+    },
+    {
+      "word": "resemblance",
+      "hint": "r___mb_____"
+    },
+    {
+      "word": "resent",
+      "hint": "r_____"
+    },
+    {
+      "word": "reservation",
+      "hint": "r___r__t___"
+    },
+    {
+      "word": "reside",
+      "hint": "r_____"
+    },
+    {
+      "word": "residential",
+      "hint": "r___d_n____"
+    },
+    {
+      "word": "resonance",
+      "hint": "r____a___"
+    },
+    {
+      "word": "resultant",
+      "hint": "r_____a__"
+    },
+    {
+      "word": "retail",
+      "hint": "r_____"
+    },
+    {
+      "word": "retention",
+      "hint": "r_____i__"
+    },
+    {
+      "word": "retort",
+      "hint": "r_____"
+    },
+    {
+      "word": "retrieve",
+      "hint": "r______e"
+    },
+    {
+      "word": "retrospect",
+      "hint": "r____s____"
+    },
+    {
+      "word": "revelation",
+      "hint": "r_______o_"
+    },
+    {
+      "word": "revenge",
+      "hint": "r______"
+    },
+    {
+      "word": "revive",
+      "hint": "r_____"
+    },
+    {
+      "word": "revolve",
+      "hint": "r______"
+    },
+    {
+      "word": "rig",
+      "hint": "___"
+    },
+    {
+      "word": "rigorous",
+      "hint": "r____o__"
+    },
+    {
+      "word": "rim",
+      "hint": "___"
+    },
+    {
+      "word": "riot",
+      "hint": "____"
+    },
+    {
+      "word": "rip",
+      "hint": "___"
+    },
+    {
+      "word": "ripple",
+      "hint": "r_____"
+    },
+    {
+      "word": "ritual",
+      "hint": "r_____"
+    },
+    {
+      "word": "robust",
+      "hint": "r_____"
+    },
+    {
+      "word": "romance",
+      "hint": "r______"
+    },
+    {
+      "word": "rot",
+      "hint": "___"
+    },
+    {
+      "word": "royalty",
+      "hint": "r______"
+    },
+    {
+      "word": "rupture",
+      "hint": "r______"
+    },
+    {
+      "word": "scared",
+      "hint": "s_____"
+    },
+    {
+      "word": "safeguard",
+      "hint": "s_______d"
+    },
+    {
+      "word": "saint",
+      "hint": "s____"
+    },
+    {
+      "word": "sanction",
+      "hint": "sa______"
+    },
+    {
+      "word": "saturate",
+      "hint": "sa______"
+    },
+    {
+      "word": "sauce",
+      "hint": "s____"
+    },
+    {
+      "word": "savage",
+      "hint": "s_____"
+    },
+    {
+      "word": "scandal",
+      "hint": "s______"
+    },
+    {
+      "word": "scar",
+      "hint": "____"
+    },
+    {
+      "word": "scent",
+      "hint": "s____"
+    },
+    {
+      "word": "sceptical",
+      "hint": "s_e______"
+    },
+    {
+      "word": "scorn",
+      "hint": "s____"
+    },
+    {
+      "word": "scrap",
+      "hint": "s____"
+    },
+    {
+      "word": "script",
+      "hint": "s_____"
+    },
+    {
+      "word": "scrutiny",
+      "hint": "s_____n_"
+    },
+    {
+      "word": "sculpture",
+      "hint": "s___p____"
+    },
+    {
+      "word": "seam",
+      "hint": "____"
+    },
+    {
+      "word": "sector",
+      "hint": "s_____"
+    },
+    {
+      "word": "seemingly",
+      "hint": "s_____g__"
+    },
+    {
+      "word": "segment",
+      "hint": "s______"
+    },
+    {
+      "word": "segregate",
+      "hint": "s______t_"
+    },
+    {
+      "word": "seminar",
+      "hint": "s______"
+    },
+    {
+      "word": "senator",
+      "hint": "s______"
+    },
+    {
+      "word": "sensation",
+      "hint": "s_____i__"
+    },
+    {
+      "word": "sentiment",
+      "hint": "s__t_____"
+    },
+    {
+      "word": "sexual",
+      "hint": "s_____"
+    },
+    {
+      "word": "shabby",
+      "hint": "s_____"
+    },
+    {
+      "word": "shaft",
+      "hint": "s____"
+    },
+    {
+      "word": "shatter",
+      "hint": "s______"
+    },
+    {
+      "word": "sheer",
+      "hint": "s____"
+    },
+    {
+      "word": "shipment",
+      "hint": "s______t"
+    },
+    {
+      "word": "shrewd",
+      "hint": "s_____"
+    },
+    {
+      "word": "shrug",
+      "hint": "s____"
+    },
+    {
+      "word": "shutter",
+      "hint": "s______"
+    },
+    {
+      "word": "shuttle",
+      "hint": "s______"
+    },
+    {
+      "word": "signify",
+      "hint": "s______"
+    },
+    {
+      "word": "silicon",
+      "hint": "s______"
+    },
+    {
+      "word": "simulate",
+      "hint": "s___l___"
+    },
+    {
+      "word": "simultaneous",
+      "hint": "s_m______o__"
+    },
+    {
+      "word": "sin",
+      "hint": "___"
+    },
+    {
+      "word": "situated",
+      "hint": "si______"
+    },
+    {
+      "word": "skeleton",
+      "hint": "s____t__"
+    },
+    {
+      "word": "skeptical",
+      "hint": "s__p_____"
+    },
+    {
+      "word": "skip",
+      "hint": "____"
+    },
+    {
+      "word": "slack",
+      "hint": "s____"
+    },
+    {
+      "word": "slap",
+      "hint": "____"
+    },
+    {
+      "word": "slaughter",
+      "hint": "s____h___"
+    },
+    {
+      "word": "slim",
+      "hint": "____"
+    },
+    {
+      "word": "slogan",
+      "hint": "s_____"
+    },
+    {
+      "word": "slot",
+      "hint": "____"
+    },
+    {
+      "word": "slum",
+      "hint": "____"
+    },
+    {
+      "word": "smash",
+      "hint": "s____"
+    },
+    {
+      "word": "smuggle",
+      "hint": "s______"
+    },
+    {
+      "word": "snack",
+      "hint": "s____"
+    },
+    {
+      "word": "snap",
+      "hint": "____"
+    },
+    {
+      "word": "snatch",
+      "hint": "s_____"
+    },
+    {
+      "word": "soar",
+      "hint": "____"
+    },
+    {
+      "word": "sober",
+      "hint": "s____"
+    },
+    {
+      "word": "sociology",
+      "hint": "s__i_____"
+    },
+    {
+      "word": "software",
+      "hint": "s_f_____"
+    },
+    {
+      "word": "solidarity",
+      "hint": "s__i______"
+    },
+    {
+      "word": "solitary",
+      "hint": "s____a__"
+    },
+    {
+      "word": "solo",
+      "hint": "____"
+    },
+    {
+      "word": "sovereign",
+      "hint": "s______g_"
+    },
+    {
+      "word": "spacious",
+      "hint": "s______s"
+    },
+    {
+      "word": "sparkle",
+      "hint": "s______"
+    },
+    {
+      "word": "spatial",
+      "hint": "s______"
+    },
+    {
+      "word": "speciality",
+      "hint": "s____a____"
+    },
+    {
+      "word": "species",
+      "hint": "s______"
+    },
+    {
+      "word": "specifically",
+      "hint": "sp________l_"
+    },
+    {
+      "word": "specification",
+      "hint": "s______c___o_"
+    },
+    {
+      "word": "spectacle",
+      "hint": "s____a___"
+    },
+    {
+      "word": "spectacular",
+      "hint": "s_e_______r"
+    },
+    {
+      "word": "spectator",
+      "hint": "s__c_____"
+    },
+    {
+      "word": "spectrum",
+      "hint": "s___t___"
+    },
+    {
+      "word": "speculate",
+      "hint": "s_______e"
+    },
+    {
+      "word": "spiral",
+      "hint": "s_____"
+    },
+    {
+      "word": "splash",
+      "hint": "s_____"
+    },
+    {
+      "word": "spokesman",
+      "hint": "s_____m__"
+    },
+    {
+      "word": "sponge",
+      "hint": "s_____"
+    },
+    {
+      "word": "spontaneous",
+      "hint": "s_____n__u_"
+    },
+    {
+      "word": "spouse",
+      "hint": "s_____"
+    },
+    {
+      "word": "spy",
+      "hint": "___"
+    },
+    {
+      "word": "stabilize",
+      "hint": "s__b_____"
+    },
+    {
+      "word": "stagger",
+      "hint": "s______"
+    },
+    {
+      "word": "staircase",
+      "hint": "s____c___"
+    },
+    {
+      "word": "stall",
+      "hint": "s____"
+    },
+    {
+      "word": "startle",
+      "hint": "s______"
+    },
+    {
+      "word": "stationary",
+      "hint": "s_______r_"
+    },
+    {
+      "word": "statistics",
+      "hint": "s__t______"
+    },
+    {
+      "word": "stereo",
+      "hint": "s_____"
+    },
+    {
+      "word": "stereotype",
+      "hint": "s___e_____"
+    },
+    {
+      "word": "stern",
+      "hint": "s____"
+    },
+    {
+      "word": "stimulus",
+      "hint": "s___u___"
+    },
+    {
+      "word": "stitch",
+      "hint": "s_____"
+    },
+    {
+      "word": "straightforward",
+      "hint": "s______tf__w___"
+    },
+    {
+      "word": "strategic",
+      "hint": "s______i_"
+    },
+    {
+      "word": "streamline",
+      "hint": "s_______n_"
+    },
+    {
+      "word": "stride",
+      "hint": "s_____"
+    },
+    {
+      "word": "striking",
+      "hint": "s_____n_"
+    },
+    {
+      "word": "strive",
+      "hint": "s_____"
+    },
+    {
+      "word": "stubborn",
+      "hint": "s_____r_"
+    },
+    {
+      "word": "studio",
+      "hint": "s_____"
+    },
+    {
+      "word": "stumble",
+      "hint": "s______"
+    },
+    {
+      "word": "sturdy",
+      "hint": "s_____"
+    },
+    {
+      "word": "subjective",
+      "hint": "s________e"
+    },
+    {
+      "word": "subordinate",
+      "hint": "s_bo_______"
+    },
+    {
+      "word": "subscribe",
+      "hint": "s_______e"
+    },
+    {
+      "word": "subsidiary",
+      "hint": "s________y"
+    },
+    {
+      "word": "subsidy",
+      "hint": "s______"
+    },
+    {
+      "word": "subtle",
+      "hint": "s_____"
+    },
+    {
+      "word": "successor",
+      "hint": "s__c_____"
+    },
+    {
+      "word": "sue",
+      "hint": "___"
+    },
+    {
+      "word": "suffice",
+      "hint": "s______"
+    },
+    {
+      "word": "suicide",
+      "hint": "s______"
+    },
+    {
+      "word": "suitcase",
+      "hint": "su______"
+    },
+    {
+      "word": "summit",
+      "hint": "s_____"
+    },
+    {
+      "word": "summon",
+      "hint": "s_____"
+    },
+    {
+      "word": "superb",
+      "hint": "s_____"
+    },
+    {
+      "word": "superiority",
+      "hint": "s___ri_____"
+    },
+    {
+      "word": "supersonic",
+      "hint": "s_p_______"
+    },
+    {
+      "word": "supervise",
+      "hint": "su_______"
+    },
+    {
+      "word": "supplementary",
+      "hint": "s____em______"
+    },
+    {
+      "word": "suppress",
+      "hint": "s_p_____"
+    },
+    {
+      "word": "surge",
+      "hint": "s____"
+    },
+    {
+      "word": "surgeon",
+      "hint": "s______"
+    },
+    {
+      "word": "surpass",
+      "hint": "s______"
+    },
+    {
+      "word": "surplus",
+      "hint": "s______"
+    },
+    {
+      "word": "survival",
+      "hint": "s_____a_"
+    },
+    {
+      "word": "susceptible",
+      "hint": "su______b__"
+    },
+    {
+      "word": "suspension",
+      "hint": "s_____s___"
+    },
+    {
+      "word": "suspicious",
+      "hint": "s___i_____"
+    },
+    {
+      "word": "swamp",
+      "hint": "s____"
+    },
+    {
+      "word": "symmetry",
+      "hint": "s______y"
+    },
+    {
+      "word": "symphony",
+      "hint": "s__p____"
+    },
+    {
+      "word": "symposium",
+      "hint": "sy_______"
+    },
+    {
+      "word": "symptom",
+      "hint": "s______"
+    },
+    {
+      "word": "synthesis",
+      "hint": "s_______s"
+    },
+    {
+      "word": "tablet",
+      "hint": "t_____"
+    },
+    {
+      "word": "tackle",
+      "hint": "t_____"
+    },
+    {
+      "word": "tactics",
+      "hint": "t______"
+    },
+    {
+      "word": "tangle",
+      "hint": "t_____"
+    },
+    {
+      "word": "tar",
+      "hint": "___"
+    },
+    {
+      "word": "tariff",
+      "hint": "t_____"
+    },
+    {
+      "word": "tease",
+      "hint": "t____"
+    },
+    {
+      "word": "temperament",
+      "hint": "t_____a___t"
+    },
+    {
+      "word": "tempo",
+      "hint": "t____"
+    },
+    {
+      "word": "tenant",
+      "hint": "t_____"
+    },
+    {
+      "word": "tentative",
+      "hint": "t_______e"
+    },
+    {
+      "word": "terminate",
+      "hint": "t____n___"
+    },
+    {
+      "word": "terrace",
+      "hint": "t______"
+    },
+    {
+      "word": "terrain",
+      "hint": "t______"
+    },
+    {
+      "word": "terrific",
+      "hint": "t__r____"
+    },
+    {
+      "word": "terrify",
+      "hint": "t______"
+    },
+    {
+      "word": "testify",
+      "hint": "t______"
+    },
+    {
+      "word": "testimony",
+      "hint": "t_s______"
+    },
+    {
+      "word": "texture",
+      "hint": "t______"
+    },
+    {
+      "word": "Thanksgiving",
+      "hint": "Th______v___"
+    },
+    {
+      "word": "theft",
+      "hint": "t____"
+    },
+    {
+      "word": "theme",
+      "hint": "t____"
+    },
+    {
+      "word": "therapy",
+      "hint": "t______"
+    },
+    {
+      "word": "thereafter",
+      "hint": "th________"
+    },
+    {
+      "word": "thermal",
+      "hint": "t______"
+    },
+    {
+      "word": "thesis",
+      "hint": "t_____"
+    },
+    {
+      "word": "thirst",
+      "hint": "t_____"
+    },
+    {
+      "word": "thorn",
+      "hint": "t____"
+    },
+    {
+      "word": "threshold",
+      "hint": "t___s____"
+    },
+    {
+      "word": "thrill",
+      "hint": "t_____"
+    },
+    {
+      "word": "tick",
+      "hint": "____"
+    },
+    {
+      "word": "tile",
+      "hint": "____"
+    },
+    {
+      "word": "tilt",
+      "hint": "____"
+    },
+    {
+      "word": "timber",
+      "hint": "t_____"
+    },
+    {
+      "word": "timely",
+      "hint": "t_____"
+    },
+    {
+      "word": "timid",
+      "hint": "t____"
+    },
+    {
+      "word": "token",
+      "hint": "t____"
+    },
+    {
+      "word": "tolerant",
+      "hint": "to______"
+    },
+    {
+      "word": "toss",
+      "hint": "____"
+    },
+    {
+      "word": "tow",
+      "hint": "___"
+    },
+    {
+      "word": "tract",
+      "hint": "t____"
+    },
+    {
+      "word": "tragic",
+      "hint": "t_____"
+    },
+    {
+      "word": "trait",
+      "hint": "t____"
+    },
+    {
+      "word": "transaction",
+      "hint": "t__ns______"
+    },
+    {
+      "word": "transcend",
+      "hint": "t_a______"
+    },
+    {
+      "word": "transient",
+      "hint": "t____i___"
+    },
+    {
+      "word": "transit",
+      "hint": "t______"
+    },
+    {
+      "word": "transition",
+      "hint": "t____i____"
+    },
+    {
+      "word": "transplant",
+      "hint": "tr________"
+    },
+    {
+      "word": "traverse",
+      "hint": "t____r__"
+    },
+    {
+      "word": "trench",
+      "hint": "t_____"
+    },
+    {
+      "word": "tribe",
+      "hint": "t____"
+    },
+    {
+      "word": "tribute",
+      "hint": "t______"
+    },
+    {
+      "word": "trifle",
+      "hint": "t_____"
+    },
+    {
+      "word": "trigger",
+      "hint": "t______"
+    },
+    {
+      "word": "triple",
+      "hint": "t_____"
+    },
+    {
+      "word": "trivial",
+      "hint": "t______"
+    },
+    {
+      "word": "tuck",
+      "hint": "____"
+    },
+    {
+      "word": "tug",
+      "hint": "___"
+    },
+    {
+      "word": "tuition",
+      "hint": "t______"
+    },
+    {
+      "word": "tumble",
+      "hint": "t_____"
+    },
+    {
+      "word": "turbulent",
+      "hint": "t____l___"
+    },
+    {
+      "word": "turnover",
+      "hint": "t__n____"
+    },
+    {
+      "word": "tutor",
+      "hint": "t____"
+    },
+    {
+      "word": "ultraviolet",
+      "hint": "ul________t"
+    },
+    {
+      "word": "unanimous",
+      "hint": "un_______"
+    },
+    {
+      "word": "underestimate",
+      "hint": "u__e_______t_"
+    },
+    {
+      "word": "underlying",
+      "hint": "u___r_____"
+    },
+    {
+      "word": "undermine",
+      "hint": "u_d______"
+    },
+    {
+      "word": "unemployment",
+      "hint": "un_____y____"
+    },
+    {
+      "word": "unfold",
+      "hint": "u_____"
+    },
+    {
+      "word": "unify",
+      "hint": "u____"
+    },
+    {
+      "word": "update",
+      "hint": "u_____"
+    },
+    {
+      "word": "upgrade",
+      "hint": "u______"
+    },
+    {
+      "word": "uphold",
+      "hint": "u_____"
+    },
+    {
+      "word": "validity",
+      "hint": "va______"
+    },
+    {
+      "word": "valve",
+      "hint": "v____"
+    },
+    {
+      "word": "vegetation",
+      "hint": "v______i__"
+    },
+    {
+      "word": "veil",
+      "hint": "____"
+    },
+    {
+      "word": "vein",
+      "hint": "____"
+    },
+    {
+      "word": "vent",
+      "hint": "____"
+    },
+    {
+      "word": "ventilate",
+      "hint": "v____l___"
+    },
+    {
+      "word": "verbal",
+      "hint": "v_____"
+    },
+    {
+      "word": "verdict",
+      "hint": "v______"
+    },
+    {
+      "word": "verge",
+      "hint": "v____"
+    },
+    {
+      "word": "versatile",
+      "hint": "v___a____"
+    },
+    {
+      "word": "verse",
+      "hint": "v____"
+    },
+    {
+      "word": "versus",
+      "hint": "v_____"
+    },
+    {
+      "word": "veto",
+      "hint": "____"
+    },
+    {
+      "word": "vicinity",
+      "hint": "v___n___"
+    },
+    {
+      "word": "vicious",
+      "hint": "v______"
+    },
+    {
+      "word": "violate",
+      "hint": "v______"
+    },
+    {
+      "word": "virgin",
+      "hint": "v_____"
+    },
+    {
+      "word": "virtual",
+      "hint": "v______"
+    },
+    {
+      "word": "virus",
+      "hint": "v____"
+    },
+    {
+      "word": "visualize",
+      "hint": "v___a____"
+    },
+    {
+      "word": "vocal",
+      "hint": "v____"
+    },
+    {
+      "word": "vocational",
+      "hint": "v______n__"
+    },
+    {
+      "word": "void",
+      "hint": "____"
+    },
+    {
+      "word": "volunteer",
+      "hint": "v____t___"
+    },
+    {
+      "word": "vulgar",
+      "hint": "v_____"
+    },
+    {
+      "word": "vulnerable",
+      "hint": "v________e"
+    },
+    {
+      "word": "wallet",
+      "hint": "w_____"
+    },
+    {
+      "word": "ward",
+      "hint": "____"
+    },
+    {
+      "word": "warehouse",
+      "hint": "w_r______"
+    },
+    {
+      "word": "warfare",
+      "hint": "w______"
+    },
+    {
+      "word": "warrant",
+      "hint": "w______"
+    },
+    {
+      "word": "watertight",
+      "hint": "w_____i___"
+    },
+    {
+      "word": "watt",
+      "hint": "____"
+    },
+    {
+      "word": "weary",
+      "hint": "w____"
+    },
+    {
+      "word": "web",
+      "hint": "___"
+    },
+    {
+      "word": "wedge",
+      "hint": "w____"
+    },
+    {
+      "word": "whereas",
+      "hint": "w______"
+    },
+    {
+      "word": "whereby",
+      "hint": "w______"
+    },
+    {
+      "word": "whirl",
+      "hint": "w____"
+    },
+    {
+      "word": "withhold",
+      "hint": "w_t_____"
+    },
+    {
+      "word": "wrench",
+      "hint": "w_____"
+    },
+    {
+      "word": "wretched",
+      "hint": "w__t____"
+    },
+    {
+      "word": "wrinkle",
+      "hint": "w______"
+    },
+    {
+      "word": "yacht",
+      "hint": "y____"
+    },
+    {
+      "word": "yell",
+      "hint": "____"
+    },
+    {
+      "word": "yoke",
+      "hint": "____"
+    },
+    {
+      "word": "youngster",
+      "hint": "y_______r"
+    },
+    {
+      "word": "zinc",
+      "hint": "____"
+    }
+  ]
+}

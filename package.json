@@ -1,0 +1,21 @@
+{
+  "name": "drawsomething",
+  "version": "16.04.08",
+  "description": "simple html5 game drawsomething",
+  "main": "bin/www",
+  "dependencies": {
+    "body-parser": "",
+    "canvas": "",
+    "cookie-parser": "",
+    "debug": "",
+    "ejs": "",
+    "express": "",
+    "mongoose": "",
+    "morgan": "",
+    "serve-favicon": "",
+    "socket.io": "",
+    "utility": ""
+  },
+  "author": "liuyibo",
+  "license": "GPL"
+}

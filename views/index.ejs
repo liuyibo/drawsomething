@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+    <base target="_blank">
+    <title>Ｏ（∩＿∩）Ｏ</title>
+    <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <script src="error.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="text/javascript" src="game.js"></script>
+    <script type="text/javascript" src="touch.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<body>
+
+<div id="loginpage" style="z-index: 10000">
+    <form onsubmit="return false;" id="loginform">
+        <input type="text" id="username" placeholder="username" />
+        <input type="password" id="password" placeholder="password" />
+        <button type="submit" id="login">login</button>
+        <button type="button" id="register">register</button>
+    </form>
+    <div id="housecontainer">
+    </div>
+</div>
+
+<div id="gamecontent">
+    <div id="all">
+        <div id="wrap">
+            <div style="width: 250px">
+                <div style="padding-right: 20px">
+                    <div id="players" class="panel">
+                    </div>
+                    <form onsubmit="return false;" id="nameform">
+                        <input type="text" id="nameinput" />
+                        <button type="submit" id="namebtn">That's my name!</button>
+                    </form>
+                </div>
+            </div>
+            <div style="width: 800px">
+                <div>
+                    <div id="status" class="info"></div>
+                    <div style="height: 5px"></div>
+                    <div id="game">
+                        <canvas id="canvas" width="800" height="480" style="border: #448 solid 1px"></canvas>
+                    </div>
+                    <table class="colortable">
+                        <tr>
+                            <td>
+                                <div class="radiocolor">
+                                    <label class="radiocolorbg" for="radiocolornull"></label>
+                                    <input type="radio" value="#ffffff" id="radiocolornull" name="color" />
+                                    <img class="radiocolorfg" style="border-radius: 0px" src="eraser.png"/>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+
+                    <table class="widthtable">
+                        <tr>
+                            <td>
+                                <div class="radiowidth">
+                                    <img id="skip" class="radiowidthfg"  style="border-radius: 0px; background: transparent" src="skip.png"/>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="radiowidth">
+                                    <img id="reset" class="radiowidthfg"  style="border-radius: 0px; background: transparent" src="clear.png"/>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div style="width: 250px">
+                <div style="padding-left: 20px">
+                    <div id="chat" class="chat"></div>
+                    <div style="height: 10px"></div>
+                    <form onsubmit="return false;" id="speakform">
+                        <input type="text" id="speakinput" />
+                        <button type="submit" id="speakbtn">Meme da!</button>
+                    </form>
+                </div>
+            </div>
+            </tr>
+            </table>
+        </div>
+    </div>
+
+    <!-- answerboard will show after each turn -->
+    <div id="answerboard" class="fullscreen" style="pointer-events: none">
+        <div id="answerpanel" style="pointer-events: auto; border-radius: 8px; border: 20px inset #a73800; width: 480px; height: 360px; background-color: #fff;" class="center">
+            <img id="flowerbtn" src="flowerbtn.png" style="width: 100px; height: 100px; position: absolute; left: 70px; top: 280px" />
+            <img id="slipperbtn" src="slipperbtn.png" style="width: 100px; height: 100px; position: absolute; left: 260px; top: 280px" />
+            <div id="answer" style="font-size: 60px; color: #00a090; text-align: center; margin-top: 60px">Word</div>
+            <div style="font-size: 30px; color: #00a090; text-align: center; margin-top: 80px">共有<span id="correctCount" style="color: red">0</span>人答对</div>
+        </div>
+    </div>
+
+    <!-- scoreboard will show after each game -->
+    <div id="scoreboard" class="fullscreen" style="pointer-events: none">
+        <div id="scorepanel" style="pointer-events: auto; border-radius: 8px; border: 20px inset #a73800; width: 480px; height: 360px; background-color: #fff;" class="center">
+            <img id="trophy" src="trophy.png" style="width: 100px; height: 100px; position: absolute; left: 170px; top: -60px" />
+            <div id="ranklist" style="word-wrap: break-word; overflow: auto; padding: 60px 0px 0px 50px; width: 100%; height: 100%">
+            </div>
+        </div>
+    </div>
+
+    <!-- readyboard will show before each game -->
+    <div id="readyboard" class="readyboard center" >
+
+    </div>
+
+    <input type="text" id="inputwordpre" class="inputwordinput center" style="border: rgb(239, 219, 243) solid 3px; border-radius: 5px;" />
+
+    <div id="inputwordboard" class="center">
+        <form onsubmit="return false;" id="inputwordform">
+            <div style="position: relative;margin-left: 60px; margin-top: 40px;height: 60px;">
+                <span>词语</span>
+                <input type="text" id="inputwordword" class="inputwordinput" />
+            </div>
+            <div style="position: relative;margin-left: 60px; margin-top: 20px; height: 60px;">
+                <span>提示</span>
+                <input type="text" id="inputwordhint" class="inputwordinput" />
+            </div>
+            <div style="position: relative;margin-left: 50px; margin-top: 30px;">
+                <button type="submit" id="inputwordok" class="btn">
+                    就是它！
+                </button>
+                <button type="button" id="inputwordgiveup" class="btn" style="margin-left:50px">
+                    Lucky！
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="aboutboard" class="fullscreen" style="z-index: 1000;">
+    <div id="aboutpanel" class="center" style="width:600px">
+        <div style="width: 100%; height: 75%">
+            <div style="display: inline-block; width: 350px">
+                <div style="font-size: 36px;margin-top: 24px;margin-bottom: 12px;">说明</div>
+                <div id="abouttext"><% include ../public/readme.txt %></div>
+            </div>
+            <div style="display: inline-block; margin: 100px 50px; vertical-align: top;">
+                <a class="abouthref" href="/imgdumps">历史记录</a>
+                <a id="logout" class="abouthref" href="javascript:void(0);">登出</a>
+            </div>
+        </div>
+        <div id="aboutbuttonpanel" style="margin-top: 20px">
+            <div class="btn">关！</div>
+        </div>
+    </div>
+</div>
+
+<!-- left bottom corner icon -->
+<img id="icon" style="position: fixed; width: 100px; height: 100px; bottom: 0px; left: 0px"
+     src="umaru.png" />
+
+<span style="position: fixed; bottom: 0px; right: 0px; font-size: 12px; opacity: 0.08">liuyibo&nbspv20160416</span>
+<audio id="audioplayer" loop="loop"></audio>
+</body>
+</html>

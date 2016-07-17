@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/2.0.3/jquery-2.0.3.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#logout").click(function () {
+                $.get("logout");
+            });
+            $("#login").click(function () {
+                $.post("login", {name: $("#name").val(), password: $("#password").val() }, function (res) {
+                    if (res.result) {
+                        alert("login: ok!");
+                    } else {
+                        alert("login: error!");
+                    }
+                });
+            });
+            $("#register").click(function () {
+                $.post("register", {name: $("#name").val(), password: $("#password").val()}, function (res) {
+                    if (res.result) {
+                        alert("reg: ok!");
+                    } else {
+                        alert("reg: error!");
+                    }
+                })
+            })
+            setInterval(function () {
+                $.get("getloginstatus", function (res) {
+                    $("#status").html(res.login ? '1 ' + res.user : '0');
+                });
+            }, 1000);
+        });
+    </script>
+</head>
+<body>
+    <div id="status"></div>
+    <input id="name" type="text" value="liuyibo" />
+    <input id="password" type="text" value="19940308" />
+    <input id="register" type="button" value="register" />
+    <input id="login" type="button" value="login" />
+    <button id="logout">logout</button>
+</body>
+</html>
